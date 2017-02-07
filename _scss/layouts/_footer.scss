@@ -1,0 +1,19 @@
+.footer {
+  padding-top: 2em;
+  background: #333;
+  color: #fff;
+
+  &__title {
+    // text-transform: uppercase;
+  }
+
+  &__copyright {
+    padding: 1em;
+    margin-top: 2em;
+    text-align: center;
+
+    p {
+      margin: 0;
+    }
+  }
+}

@@ -1,0 +1,255 @@
+img, iframe {
+  max-width: 100%;
+  max-height: 100%;
+  vertical-align: middle; }
+
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999; }
+
+.footer {
+  padding-top: 2em;
+  background: #333;
+  color: #fff; }
+  .footer__copyright {
+    padding: 1em;
+    margin-top: 2em;
+    text-align: center; }
+    .footer__copyright p {
+      margin: 0; }
+
+.navbar {
+  padding: 1em 0;
+  background: none;
+  border: none;
+  color: #fff; }
+  .navbar a {
+    color: inherit; }
+    .navbar a:hover, .navbar a:active {
+      background: none !important;
+      text-decoration: underline !important; }
+  .navbar-toggle {
+    position: relative; }
+    .navbar-toggle:before {
+      position: absolute;
+      right: 100%;
+      font-size: 80%;
+      content: 'MENU'; }
+    .navbar-toggle .icon-bar {
+      position: relative;
+      background: #fff; }
+    .navbar-toggle.is-active .icon-bar--1 {
+      position: relative;
+      left: 0.2em;
+      -webkit-transform: rotate(45deg);
+          -ms-transform: rotate(45deg);
+              transform: rotate(45deg);
+      -webkit-transform-origin: 0 0;
+          -ms-transform-origin: 0 0;
+              transform-origin: 0 0; }
+    .navbar-toggle.is-active .icon-bar--2 {
+      visibility: hidden;
+      opacity: 0; }
+    .navbar-toggle.is-active .icon-bar--3 {
+      position: relative;
+      left: 0.2em;
+      -webkit-transform: rotate(-45deg);
+          -ms-transform: rotate(-45deg);
+              transform: rotate(-45deg);
+      -webkit-transform-origin: 0 0;
+          -ms-transform-origin: 0 0;
+              transform-origin: 0 0; }
+  .navbar-brand {
+    padding: 0.5em; }
+  @media screen and (max-width: 767px) {
+    .navbar {
+      padding: 0; }
+      .navbar-brand {
+        padding: 0.8em; }
+      .navbar-header {
+        position: relative;
+        z-index: 9999; }
+      .navbar-collapse {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        height: auto !important;
+        max-height: none !important;
+        background: black;
+        color: #fff; }
+        .navbar-collapse:before {
+          display: inline-block;
+          vertical-align: middle;
+          width: 0;
+          height: 100%;
+          margin-right: -2%;
+          overflow: hidden;
+          content: ''; }
+        .navbar-collapse:after {
+          display: none; }
+      .navbar-nav {
+        display: inline-block;
+        vertical-align: middle;
+        width: 100%;
+        margin: 0;
+        font-size: 2em; }
+        .navbar-nav > li > a {
+          font-weight: bold;
+          letter-spacing: 1px;
+          text-align: center;
+          text-transform: uppercase;
+          padding: 0.5em; } }
+
+.intro {
+  position: relative;
+  padding: 8em 0 5em;
+  margin: 0;
+  text-align: center;
+  background-color: #000;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff; }
+  .intro--lg {
+    padding: 10em 0; }
+    @media screen and (max-width: 767px) {
+      .intro--lg {
+        padding: 5em 0 3em; } }
+  .intro:before {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: #000;
+    opacity: 0.6;
+    content: ''; }
+  .intro:after {
+    display: inline-block;
+    vertical-align: middle;
+    width: 0;
+    height: 100%;
+    content: ''; }
+  .intro__inner {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle; }
+  .intro__title {
+    text-transform: uppercase; }
+
+.section {
+  padding: 3em 0; }
+  .section__header {
+    margin-bottom: 2em; }
+    @media screen and (max-width: 767px) {
+      .section__header {
+        text-align: left !important; } }
+  .section__title {
+    font-weight: bold;
+    text-transform: uppercase; }
+  .section__slider {
+    position: relative; }
+    .section__slider .owl-dots {
+      margin-top: 2em; }
+    .section__slider .owl-nav {
+      margin: 0; }
+      @media screen and (max-width: 767px) {
+        .section__slider .owl-nav {
+          position: relative; } }
+    .section__slider .owl-prev,
+    .section__slider .owl-next {
+      display: none !important;
+      position: absolute;
+      top: 50%;
+      z-index: 2;
+      width: 2em;
+      height: 2em;
+      padding: 0 !important;
+      margin-top: -1em !important;
+      font-size: 3em !important;
+      line-height: 2;
+      text-align: center;
+      background: none !important;
+      color: inherit !important; }
+      @media screen and (max-width: 767px) {
+        .section__slider .owl-prev,
+        .section__slider .owl-next {
+          margin-top: 0 !important; } }
+    .section__slider .owl-prev {
+      left: 0; }
+    .section__slider .owl-next {
+      right: 0; }
+
+.contact {
+  background: #eee; }
+  .contact__map {
+    position: relative;
+    height: 0;
+    padding-bottom: 80%;
+    max-height: 400px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box; }
+    @media screen and (max-width: 767px) {
+      .contact__map {
+        margin-bottom: 1em; } }
+    .contact__map iframe {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      margin: auto; }
+
+.classes {
+  padding-top: 0;
+  background: #fff !important; }
+  .classes__header {
+    position: relative;
+    padding: 2em 0 12em;
+    margin-bottom: -11em;
+    background: #f9cb26 url("/assets/img/ape-primal-color.jpg") no-repeat;
+    background-size: cover;
+    background-position: 50%; }
+  .classes .thumbnail {
+    padding: 0.5em;
+    border: none; }
+
+.transformations {
+  background: #eee; }
+
+.post__content {
+  margin-bottom: 2em; }
+
+.post__share {
+  text-align: center; }
+
+.col-align-v {
+  float: none;
+  display: inline-block;
+  vertical-align: middle; }
+  @media screen and (max-width: 767px) {
+    .col-align-v {
+      display: block; } }
+
+.classes {
+  background: #eee; }
+
+.testimonials {
+  background: #333;
+  color: #fff; }
+  .testimonials blockquote {
+    padding: 0;
+    margin: 0;
+    border: none; }
+    .testimonials blockquote footer {
+      text-align: center; }
+
+.article {
+  margin-bottom: 2em; }

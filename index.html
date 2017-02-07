@@ -1,0 +1,131 @@
+---
+layout: default
+banner_image: https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/15873116_568082153380353_9011122106871954272_n.jpg?oh=aaed86a0cffa79ae3850674770a59b75&oe=591F3F40
+---
+<div class="intro intro--lg" style="background-image: url('{{ page.banner_image }}')">
+  <div class="intro__inner">
+    <div class="container">
+      <h1 class="intro__title editable">Lorem Ipsum Dolor</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, soluta enim aliquam.</p>
+      <p><a href="#" class="btn btn-primary">Lorem Ipsum</a></p>
+    </div>
+  </div>
+</div>
+
+
+
+<div id="story" class="section story">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-sm-6 col-align-v">
+         <img class="editable" src="/assets/img/team.jpg" alt="">
+       </div><!--
+    --><div class="col-sm-6 col-align-v">
+
+        <div class="section__header">
+          <h2 class="section__title editable">Our Story</h2>
+        </div>
+        <div class="editable">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ipsum diam, volutpat at neque dapibus, sodales accumsan justo. Suspendisse diam nibh, porttitor et convallis quis, tincidunt ut nibh. Donec eget nulla at elit pretium condimentum id eu sapien. Morbi hendrerit, nibh quis sollicitudin auctor, arcu ex iaculis nunc, viverra porta ante ex ac ante. Sed vitae semper lectus, id hendrerit justo. Vestibulum id mi massa. Nulla quis tempor erat.</p>
+          <p>In sed tempor nibh. In vulputate non enim ac semper. Nulla nec tellus eget mauris convallis aliquam. Donec ut mattis ipsum. Sed mollis elementum erat, ut laoreet lectus maximus non. Phasellus molestie magna vel tellus iaculis dignissim. Aenean sit amet congue turpis, vel congue dolor. Aenean a viverra odio, luctus aliquet odio.</p>
+        </div>
+        <p><a href="#" class="btn btn-primary editable">Meet the Team</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div id="classes" class="section classes">
+
+  <div class="classes__header section__header text-center">
+    <div class="container">
+      <div class="">
+        <h2 class="section__title editable">What we can do for you</h2>
+        <p class="editable">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae, mollitia libero cumque!</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <div class="row">
+
+      {% for class in site.classes %}
+        <div class="col-sm-4">
+          <div class="thumbnail">
+            <a href="{{ class.url }}" class="classes__media">
+              <img src="{{ class.image }}" alt="">
+            </a>
+            <h3 class="class__title">{{ class.title }}</h3>
+            <p>{{ class.description }}</p>
+            <p><a href="{{ post.url }}" class="btn btn-block btn-primary">Learn More</a></p>
+          </div>
+        </div>
+      {% endfor %}
+
+    </div>
+
+  </div>
+</div>
+
+
+
+<div id="transformations" class="section transformations">
+
+  <div class="container">
+    <div class="section__header text-center">
+      <h2 class="section__title editable">Success Stories <small><a href="#">View more stories</a></small></h2>
+    </div>
+  </div>
+
+  <div class="owl-carousel owl-theme section__slider">
+    {% for transformation in site.transformations %}
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-md-offset col-md-push-6">
+            <div class="thumbnail">
+              <img src="{{ transformation.image }}" alt="">
+            </div>
+          </div>
+          <div class="col-md-6 col-md-pull-6">
+            <h3>{{ transformation.name }}</h3>
+            {{ transformation.content }}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+</div>
+
+
+
+<div id="testimonials" class="section testimonials">
+  <div class="container">
+
+    <div class="section__header text-center">
+      <h2 class="section__title editable">What our clients say</h2>
+    </div>
+
+  </div>
+
+  <div class="">
+    <div class="testimonials__items section__slider owl-carousel owl-theme">
+
+      {% for testimonial in site.data.testimonials %}
+        <div class="testimonials__item">
+          <div class="container">
+            <blockquote>
+              <p>{{ testimonial.quote }}</p>
+              <footer>{{ testimonial.name }}</footer>
+            </blockquote>
+          </div>
+        </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</div>

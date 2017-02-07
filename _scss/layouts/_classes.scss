@@ -1,0 +1,20 @@
+.classes {
+  padding-top: 0;
+  background: #fff !important;
+  // color: #fff;
+
+  &__header {
+    position: relative;
+    padding: 2em 0 12em;
+    margin-bottom: -11em;
+    background: #f9cb26 url('/assets/img/ape-primal-color.jpg') no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    // color: #333;
+  }
+
+  .thumbnail {
+    padding: 0.5em;
+    border: none;
+  }
+}

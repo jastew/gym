@@ -1,0 +1,20 @@
+---
+layout: page
+title: Blog
+banner_image: https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/10451178_326035267585044_187388856617765806_n.jpg?oh=5e4b183cd38594c9a80ec6a49a07aa11&oe=59076E64
+---
+<div class="row">
+  {% for post in site.posts %}
+    <div class="col-sm-4">
+      <div class="article">
+        <a href="{{ post.url }}"><img src="{{ post.image }}" alt=""></a>
+        <h2 class="article__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p class="article__meta"><small>Posted on {{ post.date | date: '%d %B, %Y' }}</small></p>
+        <div class="article__text">
+          {{ post.excerpt }}
+        </div>
+        <div><a href="{{ post.url }}" class="btn btn-primary">Read More</a></div>
+      </div>
+    </div>
+  {% endfor %}
+</div>

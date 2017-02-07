@@ -1,0 +1,48 @@
+.intro {
+  position: relative;
+  padding: 8em 0 5em;
+  margin: 0;
+  text-align: center;
+  background-color: #000;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+
+  &--lg {
+    padding: 10em 0;
+
+    @media screen and (max-width: 767px) {
+      padding: 5em 0 3em;
+    }
+  }
+
+  &:before {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: #000;
+    opacity: 0.6;
+    content: '';
+  }
+
+  &:after {
+    display: inline-block;
+    vertical-align: middle;
+    width: 0;
+    height: 100%;
+    content: '';
+  }
+
+  &__inner {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  &__title {
+    text-transform: uppercase;
+  }
+}

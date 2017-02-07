@@ -1,0 +1,29 @@
+.testimonials {
+  // text-align: center;
+  background: #333;
+  color: #fff;
+
+  &__items {
+
+  }
+
+  &__item {
+
+  }
+
+  blockquote {
+    padding: 0;
+    margin: 0;
+    border: none;
+
+    footer {
+      text-align: center;
+    }
+  }
+
+  .owl-item {
+    // float: none;
+    // display: inline-block;
+    // vertical-align: middle;
+  }
+}
