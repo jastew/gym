@@ -1,3 +1,5 @@
+$c-primary: #faca2e;
+
 @import "base/main";
 @import "layouts/main";
 @import "blocks/main";
@@ -8,4 +10,10 @@
 #transformations,
 #contact {
   // display: none;
+}
+html {
+  font-size: 16px;
+}
+body {
+  font-size: 1em;
 }

@@ -1,0 +1,28 @@
+---
+layout: page
+title: About Us
+banner_image: /assets/img/team.jpg
+---
+
+<div class="editable">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis nobis laboriosam natus.</p>
+</div>
+
+<div id="team" class="div">
+  <h2>Meet the Team</h2>
+  {% for trainer in site.data.trainers %}
+    <div>
+      <div class="row">
+
+        <div class="col-sm-4">
+          <img src="{{ trainer.image }}" alt="">
+        </div>
+        <div class="col-sm-8">
+          <h3>{{ trainer.name }}</h3>
+          <p>{{ trainer.description }}</p>
+        </div>
+
+      </div>
+    </div>
+  {% endfor %}
+</div>

@@ -1,6 +1,6 @@
 .intro {
   position: relative;
-  padding: 8em 0 5em;
+  padding: 8em 0;
   margin: 0;
   text-align: center;
   background-color: #000;
@@ -23,8 +23,9 @@
     right: 0;
     bottom: 0;
     left: 0;
-    background: #000;
-    opacity: 0.6;
+    z-index: 2;
+    background: rgba(#000, 0.6);
+    box-shadow: inset 0 -4em 8em #000;
     content: '';
   }
 
@@ -36,13 +37,105 @@
     content: '';
   }
 
+  &__media {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    .owl-stage-outer,
+    .owl-stage,
+    .owl-item {
+      height: 100%;
+    }
+
+    .owl-stage {
+      transform: translate3d(0, 0, 0) !important;
+    }
+
+    .owl-item {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      opacity: 0;
+      visibility: hidden;
+      transition: all 1s ease-in-out;
+
+      &.active {
+        opacity: 1;
+        visibility: visible;
+        transition: all 1s ease-in-out 0.5s;
+      }
+    }
+  }
+
+  &__image {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
+
   &__inner {
     position: relative;
+    z-index: 2;
     display: inline-block;
     vertical-align: middle;
   }
 
   &__title {
+    font-size: 4em;
+    font-weight: normal;
+    line-height: 0.9;
+    letter-spacing: 1px;
     text-transform: uppercase;
+
+    @media screen and (max-width: 767px) {
+      font-size: 3em;
+    }
+
+    strong {
+      font-weight: bold;
+    }
+
+    small {
+      font-size: 60%;
+    }
+  }
+
+  &__text {
+    max-width: 30em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.25em;
+    line-height: 1.2;
+    letter-spacing: 1px;
+    opacity: 0.8;
+
+    @media screen and (max-width: 767px) {
+      font-size: 1em;
+      letter-spacing: 0;
+      opacity: 1;
+    }
+  }
+
+  &__cta {
+    padding: 0.5em 1em;
+    font-size: 1.25em;
+    font-weight: bold;
+    letter-spacing: 1px;
+    // background: #3B05D1;
+    // border: none;
+    // border-radius: 0;
+    text-transform: uppercase;
+    text-shadow: 0 1px 0 rgba(#000, 0.2);
+    // color: #fff;
   }
 }

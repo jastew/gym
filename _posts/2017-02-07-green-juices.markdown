@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "My First Post"
+title:  "Green Juices"
 date:   2017-02-07 10:32:09 +0000
 categories: jekyll update
+image: https://github.com/jastew/primalfitnessdrogheda/blob/gh-pages/uploads/juice.jpg?raw=true
+banner_image: https://github.com/jastew/primalfitnessdrogheda/blob/gh-pages/uploads/juice.jpg?raw=true
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

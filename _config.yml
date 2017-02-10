@@ -29,15 +29,26 @@ facebook: https://www.facebook.com/Primalfitnessdrogheda
 youtube: https://www.youtube.com/channel/UCzeWN3V8ECuDGAJlNHG5HAg
 
 collections:
-  - classes
-  - transformations
-  - trainers
+  classes:
+    output: true
+  transformations:
+    output: true
+  trainers:
+    output: false
 
 defaults:
   - scope:
       type: posts
     values:
       image: 'http://placehold.it/400x200&text=post'
+  - scope:
+      type: transformations
+    values:
+      layout: transformation
+  - scope:
+      type: classes
+    values:
+      layout: page
 
 # Build settings
 markdown: kramdown

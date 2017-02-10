@@ -1,6 +1,16 @@
 .contact {
-  background: #eee;
-  
+  background: #111 url('https://www.transparenttextures.com/patterns/concrete-wall.png');
+  color: #fff;
+
+  a {
+    // font-size: 1.2em;
+    color: $c-primary;
+  }
+
+  i {
+    font-size: 1.5em;
+  }
+
   &__map {
     position: relative;
     height: 0;
@@ -9,6 +19,7 @@
     box-sizing: border-box;
 
     @media screen and (max-width: 767px) {
+      display: none;
       margin-bottom: 1em;
     }
 

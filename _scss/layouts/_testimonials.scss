@@ -1,0 +1,36 @@
+.testimonials {
+  // text-align: center;
+  // background: #111 url('https://www.transparenttextures.com/patterns/concrete-wall.png');
+  // color: #fff;
+
+  &__items {
+
+  }
+
+  &__item {
+
+  }
+
+  blockquote {
+    // padding: 0;
+    margin: 0;
+    // border: none;
+    border-color: $c-primary;
+
+    footer {
+      font-size: 1.5em;
+      text-align: center;
+      color: $c-primary;
+
+      &:before {
+        display: none;
+      }
+    }
+  }
+
+  .owl-item {
+    // float: none;
+    // display: inline-block;
+    // vertical-align: middle;
+  }
+}

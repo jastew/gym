@@ -1,10 +1,14 @@
 .navbar {
   padding: 1em 0;
+  text-transform: uppercase;
+  font-weight: normal;
+  letter-spacing: 2px;
   background: none;
   border: none;
   color: #fff;
 
   a {
+    text-shadow: 0 0 3px #000;
     color: inherit;
 
     &:hover,
@@ -21,13 +25,19 @@
       position: absolute;
       right: 100%;
       font-size: 80%;
+      font-weight: bold;
+      letter-spacing: 1px;
       content: 'MENU';
     }
 
 
     .icon-bar {
       position: relative;
+      left: 0;
       background: #fff;
+      transform-origin: 0;
+      transform: rotate(0);
+      transition: all 0.3s ease-in-out;
     }
 
     &.is-active {
@@ -36,7 +46,6 @@
           position: relative;
           left: 0.2em;
           transform: rotate(45deg);
-          transform-origin: 0 0;
         }
         &--2 {
           visibility: hidden;
@@ -46,21 +55,20 @@
           position: relative;
           left: 0.2em;
           transform: rotate(-45deg);
-          transform-origin: 0 0;
         }
       }
     }
   }
 
   &-brand {
-    padding: 0.5em;
+    padding: 0.5em 1em;
   }
 
   @media screen and (max-width: 767px) {
     padding: 0;
 
     &-brand {
-      padding: 0.8em;
+      padding: 0.5em;
     }
 
     &-header {
@@ -100,10 +108,17 @@
 
       & > li > a {
         font-weight: bold;
-        letter-spacing: 1px;
+        // font-style: italic;
+        letter-spacing: px;
         text-align: center;
         text-transform: uppercase;
         padding: 0.5em;
+      }
+    }
+    &-social {
+      text-align: center;
+      a {
+        display: inline-block !important;
       }
     }
   }

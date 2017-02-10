@@ -7,7 +7,7 @@ banner_image: https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/10451178_32603526758
   {% for post in site.posts %}
     <div class="col-sm-4">
       <div class="article">
-        <a href="{{ post.url }}"><img src="{{ post.image }}" alt=""></a>
+        <a href="{{ post.url }}" class="article__image" style="background-image: url('{{ post.image }}')"></a>
         <h2 class="article__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <p class="article__meta"><small>Posted on {{ post.date | date: '%d %B, %Y' }}</small></p>
         <div class="article__text">

@@ -3,3 +3,8 @@ img, iframe {
   max-height: 100%;
   vertical-align: middle;
 }
+
+::selection {
+  background: $c-primary; /* WebKit/Blink Browsers */
+  color: #000;
+}

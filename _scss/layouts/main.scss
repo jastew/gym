@@ -5,8 +5,16 @@
 @import "section";
 @import "contact";
 @import "classes";
+@import "story";
+@import "testimonials";
 @import "transformations";
 @import "post";
+
+@media screen and (max-width: 1000px) {
+  .container {
+    width: auto !important;
+  }
+}
 
 .col-align-v {
   float: none;

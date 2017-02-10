@@ -1,10 +1,28 @@
 .footer {
   padding-top: 2em;
-  background: #333;
+  font-size: 1.1em;
+  background: #222 url('https://www.transparenttextures.com/patterns/concrete-wall.png');
   color: #fff;
 
+  &__section {
+    margin-bottom: 2em;
+  }
+
   &__title {
+    font-size: 1.5em;
     // text-transform: uppercase;
+  }
+
+  &__brand {
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+    text-indent: -9999px;
+    background: url('/assets/img/logo.png') no-repeat;
+    background-size: contain;
+  }
+
+  a {
+    color: $c-primary !important;
   }
 
   &__copyright {
