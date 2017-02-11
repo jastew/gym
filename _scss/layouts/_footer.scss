@@ -1,5 +1,5 @@
 .footer {
-  padding-top: 2em;
+  padding-top: 0;
   font-size: 1.1em;
   background: #222 url('https://www.transparenttextures.com/patterns/concrete-wall.png');
   color: #fff;
@@ -27,7 +27,7 @@
 
   &__copyright {
     padding: 1em;
-    margin-top: 2em;
+    // margin-top: 2em;
     text-align: center;
 
     p {

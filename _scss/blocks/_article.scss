@@ -1,10 +1,42 @@
 .article {
   margin-bottom: 2em;
 
-  &__image {
+  &__head {
+    position: relative;
+  }
+
+  &__media {
     display: block;
-    padding-bottom: 50%;
+    margin-bottom: 1rem;
+    padding-bottom: 100%;
     background-size: cover;
     background-position: 50% 0;
+  }
+
+  &__title {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 0.5rem 0.5rem 0 0;
+    margin: 0 1rem 0 0;
+    font-weight: bold;
+    background: #fff;
+    color: #000;
+
+    a {
+      color: inherit;
+    }
+  }
+
+  &__text {
+    margin-bottom: 1rem;
+  }
+
+  &__cta {
+    display: block;
+    font-weight: bold;
+    background: #111 !important;
+    border-color: #111 !important;
+    color: #fff !important;
   }
 }

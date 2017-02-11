@@ -21,7 +21,7 @@ img, iframe {
   z-index: 9999; }
 
 .footer {
-  padding-top: 2em;
+  padding-top: 0;
   font-size: 1.1em;
   background: #222 url("https://www.transparenttextures.com/patterns/concrete-wall.png");
   color: #fff; }
@@ -39,7 +39,6 @@ img, iframe {
     color: #faca2e !important; }
   .footer__copyright {
     padding: 1em;
-    margin-top: 2em;
     text-align: center; }
     .footer__copyright p {
       margin: 0; }
@@ -52,7 +51,6 @@ img, iframe {
   border: none;
   color: #fff; }
   .navbar a {
-    text-shadow: 0 0 3px #000;
     color: inherit; }
     .navbar a:hover, .navbar a:active {
       background: none !important;
@@ -112,6 +110,7 @@ img, iframe {
         height: auto !important;
         max-height: none !important;
         background: black;
+        border-bottom: 0.5em solid #faca2e;
         color: #fff; }
         .navbar-collapse:before {
           display: inline-block;
@@ -142,7 +141,7 @@ img, iframe {
 
 .intro {
   position: relative;
-  padding: 8em 0;
+  padding: 5rem 0 3rem;
   margin: 0;
   text-align: center;
   background-color: #000;
@@ -151,7 +150,7 @@ img, iframe {
   background-position: center center;
   color: #fff; }
   .intro--lg {
-    padding: 10em 0; }
+    padding: 8rem 0 6rem; }
     @media screen and (max-width: 767px) {
       .intro--lg {
         padding: 5em 0 3em; } }
@@ -163,8 +162,9 @@ img, iframe {
     left: 0;
     z-index: 2;
     background: rgba(0, 0, 0, 0.6);
-    -webkit-box-shadow: inset 0 -4em 8em rgba(0, 0, 0, 0.8);
-            box-shadow: inset 0 -4em 8em rgba(0, 0, 0, 0.8);
+    border-bottom: 1px solid #000;
+    -webkit-box-shadow: inset 0 -3em 2em -2em rgba(0, 0, 0, 0.5);
+            box-shadow: inset 0 -3em 2em -2em rgba(0, 0, 0, 0.5);
     content: ''; }
   .intro:after {
     display: inline-block;
@@ -198,8 +198,8 @@ img, iframe {
       .intro__media .owl-item.active {
         opacity: 1;
         visibility: visible;
-        -webkit-transition: all 1s ease-in-out 0.5s;
-        transition: all 1s ease-in-out 0.5s; }
+        -webkit-transition: all 1s ease-in-out;
+        transition: all 1s ease-in-out; }
   .intro__image {
     display: block;
     width: 100%;
@@ -214,16 +214,14 @@ img, iframe {
     display: inline-block;
     vertical-align: middle; }
   .intro__title {
-    font-size: 3.5em;
-    font-weight: lighter;
+    font-size: 4em;
+    font-weight: bold;
     line-height: 0.9;
     letter-spacing: 1px;
     text-transform: uppercase; }
     @media screen and (max-width: 767px) {
       .intro__title {
-        font-size: 3em; } }
-    .intro__title strong {
-      font-weight: bold; }
+        font-size: 2.5em; } }
     .intro__title small {
       font-size: 60%; }
   .intro__text {
@@ -231,7 +229,7 @@ img, iframe {
     margin-bottom: 1em;
     margin-left: auto;
     margin-right: auto;
-    font-size: 1.25em;
+    font-size: 1.1em;
     line-height: 1.2;
     opacity: 0.8; }
     @media screen and (max-width: 767px) {
@@ -243,13 +241,13 @@ img, iframe {
     display: inline-block;
     width: 1.75em;
     height: 1.75em;
-    font-size: 3em;
-    line-height: 1.75;
+    font-size: 2.5em;
+    line-height: 1.65;
     text-align: center;
     border: 0.1em solid;
     -webkit-border-radius: 50%;
             border-radius: 50%;
-    color: #fff; }
+    color: #fff !important; }
     .intro__cta i {
       margin-left: 0.2em; }
 
@@ -321,7 +319,6 @@ img, iframe {
             box-sizing: border-box; }
     @media screen and (max-width: 767px) {
       .contact__map {
-        display: none;
         margin-bottom: 1em; } }
     .contact__map iframe {
       position: absolute;
@@ -360,8 +357,8 @@ img, iframe {
     position: absolute;
     bottom: 0;
     display: inline-block;
-    padding: 0.5rem 1rem 0.5rem 0.5rem;
-    margin-bottom: 1rem;
+    padding: 0.5rem 1rem 0.5rem 0rem;
+    margin-bottom: 0;
     margin-right: 1rem;
     background: #fff;
     color: #000;
@@ -394,16 +391,23 @@ img, iframe {
   @media screen and (max-width: 767px) {
     .story__media {
       margin-bottom: 1rem; } }
+  .story .btn {
+    font-weight: bold;
+    background: #000 !important;
+    border-color: #000 !important;
+    color: #fff !important; }
 
-.testimonials blockquote {
-  margin: 0;
-  border-color: #faca2e; }
-  .testimonials blockquote footer {
-    font-size: 1.5em;
-    text-align: center;
-    color: #faca2e; }
-    .testimonials blockquote footer:before {
-      display: none; }
+.testimonials {
+  background: #fff url("https://www.transparenttextures.com/patterns/concrete-wall.png") !important; }
+  .testimonials blockquote {
+    margin: 0;
+    border-color: #faca2e; }
+    .testimonials blockquote footer {
+      font-size: 1.5em;
+      text-align: center;
+      color: #faca2e; }
+      .testimonials blockquote footer:before {
+        display: none; }
 
 .transformations {
   position: relative;
@@ -470,11 +474,33 @@ img, iframe {
 
 .article {
   margin-bottom: 2em; }
-  .article__image {
+  .article__head {
+    position: relative; }
+  .article__media {
     display: block;
-    padding-bottom: 50%;
+    margin-bottom: 1rem;
+    padding-bottom: 100%;
     background-size: cover;
     background-position: 50% 0; }
+  .article__title {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 0.5rem 0.5rem 0 0;
+    margin: 0 1rem 0 0;
+    font-weight: bold;
+    background: #fff;
+    color: #000; }
+    .article__title a {
+      color: inherit; }
+  .article__text {
+    margin-bottom: 1rem; }
+  .article__cta {
+    display: block;
+    font-weight: bold;
+    background: #111 !important;
+    border-color: #111 !important;
+    color: #fff !important; }
 
 #video-modal {
   z-index: 99999; }
