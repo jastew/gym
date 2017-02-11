@@ -1,23 +1,7 @@
 ---
 layout: page
-title: Stories
+title: Body Transformations
 banner_image: https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/16142545_574581262730442_8470239589938588830_n.jpg?oh=c17256e91513566e3bdd347d12163186&oe=59451001
 ---
-<div class="section">
-  <div class="container">
-    <div class="editable">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque necessitatibus ex aliquam ipsam sint placeat reprehenderit expedita odit. Sequi in ratione quas debitis dignissimos a, adipisci fugiat perspiciatis perferendis ab.</p>
-    </div>
-    <div class="row">
-      {% for t in site.transformations %}
-        <div class="col-sm-4">
-          <a href="{{ t.url }}">
-            <img src="{{ t.image }}" alt="">
-          </a>
-          <h3><a href="{{ t.url }}">{{ t.name }}</a></h3>
-        </div>
-      {% endfor %}
-    </div>
 
-  </div>
-</div>
+{% include transformations.html %}

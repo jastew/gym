@@ -1,0 +1,34 @@
+<div id="transformations" class="section transformations">
+
+  <div class="container">
+    <div class="section__header text-center">
+      <h2 class="section__title editable">Success Stories</h2>
+      <div class="editable section__text">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem rerum a blanditiis.</p>
+      </div>
+      <p><a href="/transformations.html" class="">View all Stories</a></p>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      {% for transformation in site.transformations %}
+        <div class="col-sm-4">
+          <div class="transformations__item">
+            <div class="transformations__head">
+              <a href="{{ transformation.url }}" class="transformations__media">
+                <img src="{{ transformation.image }}" alt="">
+              </a>
+              <h3 class="transformations__title">{{ transformation.name }}</h3>
+            </div>
+            <div class="transformations__body">
+              <p class="transformations__text">{{ transformation.content | strip_html | truncatewords:20 }}</p>
+              <a href="{{ transformation.url }}" class="transformations__cta btn btn-primary">Read Story</a>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+</div>

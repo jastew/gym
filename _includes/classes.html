@@ -1,0 +1,37 @@
+<div id="classes" class="section classes">
+
+  <div class="classes__header section__header text-center">
+    <div class="container">
+      <div class="">
+        <h2 class="section__title editable">What we can do for you</h2>
+        <div class="editable section__text">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae, mollitia libero cumque!</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <div class="row">
+
+      {% for class in site.classes %}
+        <div class="col-sm-4">
+          <div class="classes__item">
+            <div class="classes__head">
+              <a href="{{ class.url }}" class="classes__media">
+                <img src="{{ class.image }}" alt="">
+              </a>
+              <h3 class="classes__title"><a href="{{ class.url }}">{{ class.title }}</a></h3>
+            </div>
+            <div class="classes__body">
+              <p>{{ class.description }}</p>
+              <a href="{{ class.url }}" class="classes__cta btn btn-primary">Learn More</a>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</div>

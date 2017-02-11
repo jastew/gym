@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Blog
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 banner_image: https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/10451178_326035267585044_187388856617765806_n.jpg?oh=5e4b183cd38594c9a80ec6a49a07aa11&oe=59076E64
 ---
 <div class="section">
   <div class="container">
     <div class="row">
       {% for post in site.posts %}
-        <div class="col-sm-4">
+        <div class="col-xs-6 col-sm-4">
           <div class="article">
             <div class="article__head">
               <a href="{{ post.url }}" class="article__media" style="background-image: url('{{ post.image }}')"></a>

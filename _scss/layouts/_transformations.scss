@@ -4,14 +4,16 @@
   // border-left: 0.5em solid $c-primary;
   color: #fff;
 
-  &:before {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    width: 0.5em;
-    background: $c-primary;
-    content: '';
+  @media screen and (min-width: 767px) {
+    &:before {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      width: 0.5em;
+      background: $c-primary;
+      content: '';
+    }
   }
 
   &__item {
@@ -42,7 +44,7 @@
     position: absolute;
     left: 0;
     bottom: 0;
-    padding: 0.5rem 1rem 0 0;
+    padding: 0.5rem 0.5rem 0 0;
     margin-right: 1rem;
     margin-bottom: 0;
     font-weight: bold;
