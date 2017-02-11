@@ -25,7 +25,7 @@
     left: 0;
     z-index: 2;
     background: rgba(#000, 0.6);
-    box-shadow: inset 0 -4em 8em #000;
+    box-shadow: inset 0 -4em 8em rgba(#000, 0.8);
     content: '';
   }
 
@@ -90,8 +90,8 @@
   }
 
   &__title {
-    font-size: 4em;
-    font-weight: normal;
+    font-size: 3.5em;
+    font-weight: lighter;
     line-height: 0.9;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -116,7 +116,6 @@
     margin-right: auto;
     font-size: 1.25em;
     line-height: 1.2;
-    letter-spacing: 1px;
     opacity: 0.8;
 
     @media screen and (max-width: 767px) {
@@ -127,15 +126,18 @@
   }
 
   &__cta {
-    padding: 0.5em 1em;
-    font-size: 1.25em;
-    font-weight: bold;
-    letter-spacing: 1px;
-    // background: #3B05D1;
-    // border: none;
-    // border-radius: 0;
-    text-transform: uppercase;
-    text-shadow: 0 1px 0 rgba(#000, 0.2);
-    // color: #fff;
+    display: inline-block;
+    width: 1.75em;
+    height: 1.75em;
+    font-size: 3em;
+    line-height: 1.75;
+    text-align: center;
+    border: 0.1em solid;
+    border-radius: 50%;
+    color: #fff;
+
+    i {
+      margin-left: 0.2em;
+    }
   }
 }

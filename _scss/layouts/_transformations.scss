@@ -16,10 +16,50 @@
 
   &__item {
     margin-bottom: 4em;
-    text-align: center;
+    // text-align: center;
 
     @media screen and (max-width: 767px) {
       text-align: left;
     }
+  }
+
+  &__head {
+    position: relative;
+  }
+
+  &__media {
+    display: block;
+    // padding: 0.2rem;
+    margin-bottom: 1rem;
+    // background: #fff;
+  }
+
+  &__body {
+    // padding: 1rem;
+  }
+
+  &__title {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 0.5rem 1rem 0 0;
+    margin-right: 1rem;
+    margin-bottom: 0;
+    font-weight: bold;
+    // font-size: 1.2em;
+    background: #111;
+    color: #fff;
+  }
+
+  &__text {
+    // padding: 0 1rem;
+  }
+
+  &__cta {
+    display: block;
+    font-weight: bold;
+    background: $c-primary !important;
+    border-color: #111 !important;
+    color: #111 !important;
   }
 }

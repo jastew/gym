@@ -1,11 +1,20 @@
 .story {
   background: #fff url('https://www.transparenttextures.com/patterns/rocky-wall.png');
 
+  &__header {
+    @media screen and (max-width: 767px) {
+      margin-bottom: 0;
+    }
+  }
+
   &__title {
-    
+
   }
 
   &__media {
 
+    @media screen and (max-width: 767px) {
+      margin-bottom: 1rem;
+    }
   }
 }

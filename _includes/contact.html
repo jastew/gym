@@ -1,38 +1,27 @@
 <div id="contact" class="section contact">
   <div class="container">
 
+      <div class="section__header text-center">
+        <h2 class="section__title editable">Contact Us</h2>
+        <div class="section__text editable">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ipsum diam, volutpat at neque dapibus.</p>
+        </div>
+      </div>
     <div class="row">
 
-      <div class="col-sm-6 col-sm-push-6 col-align-v">
+      <div class="col-sm-6 col-sm-push col-align-">
 
         <div class="">
 
           <div class="">
             <div class="">
               <div class="">
-                <div class="section__header">
-                  <h2 class="section__title editable">Contact Us</h2>
+
+
+                <div class="contact__map">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2360.9582304055634!2d-6.331806984147462!3d53.71900648005881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48673a3f01a6d65d%3A0x35c2ba2ac04116f9!2sGreenhills+Industrial+Village%2C+Greenhills%2C+Drogheda%2C+Co.+Louth!5e0!3m2!1sen!2sie!4v1486476659167" width="600" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
 
-                <div class="editable">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ipsum diam, volutpat at neque dapibus.</p>
-                </div>
-
-                <h3 class="editable">Find Us</h3>
-                <p><i class="fa fa-lg fa-fw fa-map-marker"></i> <a target="_blank" href="https://www.google.com/maps/dir//Greenhills+Industrial+Village,+Greenhills,+Drogheda,+Co.+Louth,+Ireland/@53.719705,-6.334296,16z/data=!4m16!1m7!3m6!1s0x48673a3f01a6d65d:0x35c2ba2ac04116f9!2sGreenhills+Industrial+Village,+Greenhills,+Drogheda,+Co.+Louth,+Ireland!3b1!8m2!3d53.7190065!4d-6.3296183!4m7!1m0!1m5!1m1!1s0x48673a3f01a6d65d:0x35c2ba2ac04116f9!2m2!1d-6.3296183!2d53.7190065?hl=en-US">{{ site.location }}</a></p>
-
-                <h3 class="editable">Give us a call</h3>
-                <p><i class="fa fa-lg fa-fw fa-phone"></i> <a href="tel:{{ site.phone | replace: ' ', '' }}" class="">{{ site.phone }}</a></p>
-
-                <h3 class="editable">Send us a mail</h3>
-                <p><i class="fa fa-lg fa-fw fa-envelope"></i> <a href="mailto:{{ site.email }}" class="">{{ site.email }}</a></p>
-
-                <h3 class="editable">Get Social</h3>
-                <ul class="list-inline">
-                  <li><a target="_blank" href="{{ site.facebook }}" class="btn btn-link"><i class="fa fa-facebook"></i></a></li>
-                  <li><a target="_blank" href="{{ site.youtube }}" class="btn btn-link"><i class="fa fa-youtube"></i></a></li>
-                  <li><a target="_blank" href="{{ site.instagram }}" class="btn btn-link"><i class="fa fa-instagram"></i></a></li>
-                </ul>
               </div>
             </div>
           </div>
@@ -40,10 +29,25 @@
         </div>
 
       </div><!--
-   --><div class="col-sm-6 col-sm-pull-6 col-align-v">
-        <div class="contact__map">
+   --><div class="col-sm-6 col-sm-pull col-align-">
+   <h3 class="editable">Find Us</h3>
+   <p><i class="fa fa-lg fa-fw fa-map-marker"></i> <a target="_blank" href="https://www.google.com/maps/dir//Greenhills+Industrial+Village,+Greenhills,+Drogheda,+Co.+Louth,+Ireland/@53.719705,-6.334296,16z/data=!4m16!1m7!3m6!1s0x48673a3f01a6d65d:0x35c2ba2ac04116f9!2sGreenhills+Industrial+Village,+Greenhills,+Drogheda,+Co.+Louth,+Ireland!3b1!8m2!3d53.7190065!4d-6.3296183!4m7!1m0!1m5!1m1!1s0x48673a3f01a6d65d:0x35c2ba2ac04116f9!2m2!1d-6.3296183!2d53.7190065?hl=en-US">{{ site.location }}</a></p>
+
+   <h3 class="editable">Give us a call</h3>
+   <p><i class="fa fa-lg fa-fw fa-phone"></i> <a href="tel:{{ site.phone | replace: ' ', '' }}" class="">{{ site.phone }}</a></p>
+
+   <h3 class="editable">Send us a mail</h3>
+   <p><i class="fa fa-lg fa-fw fa-envelope"></i> <a href="mailto:{{ site.email }}" class="">{{ site.email }}</a></p>
+
+   <h3 class="editable">Get Social</h3>
+   <ul class="list-inline">
+     <li><a target="_blank" href="{{ site.facebook }}" class="btn btn-link"><i class="fa fa-facebook"></i></a></li>
+     <li><a target="_blank" href="{{ site.youtube }}" class="btn btn-link"><i class="fa fa-youtube"></i></a></li>
+     <li><a target="_blank" href="{{ site.instagram }}" class="btn btn-link"><i class="fa fa-instagram"></i></a></li>
+   </ul>
+        <!-- <div class="contact__map">
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2360.9582304055634!2d-6.331806984147462!3d53.71900648005881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48673a3f01a6d65d%3A0x35c2ba2ac04116f9!2sGreenhills+Industrial+Village%2C+Greenhills%2C+Drogheda%2C+Co.+Louth!5e0!3m2!1sen!2sie!4v1486476659167" width="600" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
-        </div>
+        </div> -->
        </div>
 
     </div>

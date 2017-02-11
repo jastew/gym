@@ -48,7 +48,6 @@ img, iframe {
   padding: 1em 0;
   text-transform: uppercase;
   font-weight: normal;
-  letter-spacing: 2px;
   background: none;
   border: none;
   color: #fff; }
@@ -164,8 +163,8 @@ img, iframe {
     left: 0;
     z-index: 2;
     background: rgba(0, 0, 0, 0.6);
-    -webkit-box-shadow: inset 0 -4em 8em #000;
-            box-shadow: inset 0 -4em 8em #000;
+    -webkit-box-shadow: inset 0 -4em 8em rgba(0, 0, 0, 0.8);
+            box-shadow: inset 0 -4em 8em rgba(0, 0, 0, 0.8);
     content: ''; }
   .intro:after {
     display: inline-block;
@@ -215,8 +214,8 @@ img, iframe {
     display: inline-block;
     vertical-align: middle; }
   .intro__title {
-    font-size: 4em;
-    font-weight: normal;
+    font-size: 3.5em;
+    font-weight: lighter;
     line-height: 0.9;
     letter-spacing: 1px;
     text-transform: uppercase; }
@@ -234,7 +233,6 @@ img, iframe {
     margin-right: auto;
     font-size: 1.25em;
     line-height: 1.2;
-    letter-spacing: 1px;
     opacity: 0.8; }
     @media screen and (max-width: 767px) {
       .intro__text {
@@ -242,12 +240,18 @@ img, iframe {
         letter-spacing: 0;
         opacity: 1; } }
   .intro__cta {
-    padding: 0.5em 1em;
-    font-size: 1.25em;
-    font-weight: bold;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2); }
+    display: inline-block;
+    width: 1.75em;
+    height: 1.75em;
+    font-size: 3em;
+    line-height: 1.75;
+    text-align: center;
+    border: 0.1em solid;
+    -webkit-border-radius: 50%;
+            border-radius: 50%;
+    color: #fff; }
+    .intro__cta i {
+      margin-left: 0.2em; }
 
 .section {
   padding: 3em 0;
@@ -311,7 +315,7 @@ img, iframe {
   .contact__map {
     position: relative;
     height: 0;
-    padding-bottom: 80%;
+    padding-bottom: 60%;
     max-height: 400px;
     -webkit-box-sizing: border-box;
             box-sizing: border-box; }
@@ -351,26 +355,29 @@ img, iframe {
     -webkit-box-shadow: 0.25em 0.25em 0 rgba(0, 0, 0, 0.2);
             box-shadow: 0.25em 0.25em 0 rgba(0, 0, 0, 0.2); }
   .classes__body {
-    padding: 1em 0.5rem; }
+    padding: 1em 0rem; }
   .classes__title {
     position: absolute;
     bottom: 0;
     display: inline-block;
     padding: 0.5rem 1rem 0.5rem 0.5rem;
     margin-bottom: 1rem;
+    margin-right: 1rem;
     background: #fff;
     color: #000;
     font-weight: bold; }
     .classes__title a {
       color: inherit !important; }
+  .classes__text {
+    padding: 0 0.5rem; }
   .classes__cta {
     display: block;
     margin-bottom: 0;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    background: #000;
-    border-color: #000;
+    background: #111;
+    border-color: #111;
     color: #fff; }
     .classes__cta:hover, .classes__cta:active {
       background: #000;
@@ -381,6 +388,12 @@ img, iframe {
 
 .story {
   background: #fff url("https://www.transparenttextures.com/patterns/rocky-wall.png"); }
+  @media screen and (max-width: 767px) {
+    .story__header {
+      margin-bottom: 0; } }
+  @media screen and (max-width: 767px) {
+    .story__media {
+      margin-bottom: 1rem; } }
 
 .testimonials blockquote {
   margin: 0;
@@ -405,11 +418,31 @@ img, iframe {
     background: #faca2e;
     content: ''; }
   .transformations__item {
-    margin-bottom: 4em;
-    text-align: center; }
+    margin-bottom: 4em; }
     @media screen and (max-width: 767px) {
       .transformations__item {
         text-align: left; } }
+  .transformations__head {
+    position: relative; }
+  .transformations__media {
+    display: block;
+    margin-bottom: 1rem; }
+  .transformations__title {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 0.5rem 1rem 0 0;
+    margin-right: 1rem;
+    margin-bottom: 0;
+    font-weight: bold;
+    background: #111;
+    color: #fff; }
+  .transformations__cta {
+    display: block;
+    font-weight: bold;
+    background: #faca2e !important;
+    border-color: #111 !important;
+    color: #111 !important; }
 
 .post__content {
   margin-bottom: 2em; }
@@ -452,4 +485,5 @@ html {
   font-size: 16px; }
 
 body {
+  font-family: "Open Sans", "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 1em; }
