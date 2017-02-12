@@ -59,6 +59,7 @@ defaults:
       type: transformations
     values:
       layout: transformation
+      permalink: /stories/:title/
       title:
       gender:
       date: 2017-01-01 00:00:00
