@@ -25,6 +25,7 @@ defaults:
   - scope:
       path: ""
     values:
+      title:
       banner_image:
   - scope:
       type: posts
@@ -42,8 +43,7 @@ defaults:
       gender:
       date: 2017-01-01 00:00:00
       description:
-      image: http://placehold.it/500x500&text=Transformation
-      gallery:
+      images:
         - image:
   - scope:
       type: classes
