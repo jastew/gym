@@ -1,5 +1,5 @@
 .navbar {
-  padding: 1em 0;
+  padding: 1em 3em;
   text-transform: uppercase;
   font-weight: normal;
   // letter-spacing: 1px;
@@ -7,14 +7,35 @@
   border: none;
   color: #fff;
 
+  @media screen and (max-width: 1200px) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  li {
+    // margin-left: 0.5rem;
+  }
+
   a {
+    display: block;
+    padding: 0.5rem 0.75rem !important;
     // text-shadow: 0 0 3px #000;
+    font-size: 90%;
+    font-weight: normal;
+    letter-spacing: 0.05em;
     color: inherit;
 
     &:hover,
     &:active {
       background: none !important;
       text-decoration: underline !important;
+    }
+
+    &.nav_highlight {
+      margin-left: 0.5rem;
+      font-weight: bold;
+      border: 1px solid #fff;
+      border-radius: 3px;
     }
   }
 
@@ -108,12 +129,14 @@
       font-size: 2em;
 
       & > li > a {
+        margin-bottom: 0.5rem;
         font-weight: bold;
         // font-style: italic;
         letter-spacing: px;
         text-align: center;
         text-transform: uppercase;
-        padding: 0.5em;
+        padding: 0.5em !important;
+        border: none !important;
       }
     }
     &-social {

@@ -11,7 +11,7 @@ layout: default
       {% if page.is_post %}
         <p><small>Posted on {{ page.date | date: "%d %B, %Y" }}</small></p>
       {% endif %}
-      {% if page.description %}
+      {% if page.description and page.is_post != true %}
         <p class="intro__text editable">{{ page.description }}</h1>
       {% endif %}
     </div>

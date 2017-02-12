@@ -2,9 +2,9 @@
 layout: default
 banner:
   images:
+    - https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/10451178_326035267585044_187388856617765806_n.jpg?oh=5e4b183cd38594c9a80ec6a49a07aa11&oe=59076E64
     - https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/15873116_568082153380353_9011122106871954272_n.jpg?oh=aaed86a0cffa79ae3850674770a59b75&oe=591F3F40
     - https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/16142545_574581262730442_8470239589938588830_n.jpg?oh=c17256e91513566e3bdd347d12163186&oe=59451001
-    - https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/10451178_326035267585044_187388856617765806_n.jpg?oh=5e4b183cd38594c9a80ec6a49a07aa11&oe=59076E64
 ---
 
 <div class="intro intro--lg">
@@ -52,7 +52,7 @@ banner:
 
 {% include classes.html %}
 
- 
+
 {% include transformations.html limit=3 %}
 
 
@@ -96,3 +96,24 @@ banner:
     </div>
   </div>
 </div>
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Primal Fitness Drogheda",
+  "url": "{{ site.url }}",
+  "sameAs": [
+    "{{ site.facebook }}",
+    "{{ site.instagram }}",
+    "{{ site.youtube }}",
+  ],
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": "{{ site.phone }}",
+    "email": "{{ site.email }}",
+    "contactType": "customer service"
+  }]
+}
+</script>

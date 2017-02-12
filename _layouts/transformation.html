@@ -7,10 +7,12 @@ layout: page
     <div class="row">
       <div class="col-sm-4">
         {% if page.gallery.size > 0 %}
-          <div class="owl-carousel owl-theme js-transformation-gallery">
-            {% for gallery_item in page.gallery %}
-              <img src="{{ gallery_item.image }}" alt="">
-            {% endfor %}
+          <div class="transformation__gallery">
+            <div class="owl-carousel owl-theme js-transformation-gallery">
+              {% for gallery_item in page.gallery %}
+                <img src="{{ gallery_item.image }}" alt="">
+              {% endfor %}
+            </div>
           </div>
         {% else %}
           <img src="{{ page.image }}" alt="">

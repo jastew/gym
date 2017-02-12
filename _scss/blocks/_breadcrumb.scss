@@ -1,8 +1,10 @@
 .breadcrumb {
   margin: 0;
+  font-size: 90%;
   background: #111;
+  border-bottom: 1px solid #000;
   border-radius: 0;
-  color: #fff;
+  color: #888;
 
   &__items {
     padding: 0;
@@ -12,13 +14,14 @@
 
   &__item {
     display: inline-block;
-    margin-right: 1rem;
+    margin-right: 0.5rem;
 
     &:after {
       display: inline-block;
-      margin-left: 1rem;
+      margin-left: 0.75rem;
       font-size: 75%;
       content: '>';
+      opacity: 0.5;
     }
 
     &:last-child:after {

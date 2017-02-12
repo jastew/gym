@@ -1,0 +1,15 @@
+.share {
+
+  a {
+    color: #000;
+
+    &:hover,
+    &:active {
+      color: $c-primary;
+    }
+  }
+
+  i {
+    font-size: 2em;
+  }
+}
