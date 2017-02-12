@@ -6,12 +6,12 @@ img, iframe {
 ::-moz-selection {
   background: #000;
   /* WebKit/Blink Browsers */
-  color: #faca2e; }
+  color: #fbca21; }
 
 ::selection {
   background: #000;
   /* WebKit/Blink Browsers */
-  color: #faca2e; }
+  color: #fbca21; }
 
 .header {
   position: absolute;
@@ -36,7 +36,7 @@ img, iframe {
     background: url("/assets/img/logo.png") no-repeat;
     background-size: contain; }
   .footer a {
-    color: #faca2e !important; }
+    color: #fbca21 !important; }
   .footer__copyright {
     padding: 1em;
     text-align: center; }
@@ -125,7 +125,7 @@ img, iframe {
         height: auto !important;
         max-height: none !important;
         background: black;
-        border-bottom: 0.5em solid #faca2e;
+        border-bottom: 0.5em solid #fbca21;
         color: #fff; }
         .navbar-collapse:before {
           display: inline-block;
@@ -227,7 +227,7 @@ img, iframe {
     vertical-align: middle; }
   .intro__title {
     font-size: 4em;
-    font-weight: bold;
+    font-weight: normal;
     line-height: 0.9;
     letter-spacing: 1px;
     text-transform: uppercase; }
@@ -237,7 +237,7 @@ img, iframe {
     .intro__title small {
       font-size: 60%; }
   .intro__text {
-    max-width: 30em;
+    max-width: 40em;
     margin-bottom: 1em;
     margin-left: auto;
     margin-right: auto;
@@ -246,6 +246,11 @@ img, iframe {
     color: #bbb; }
     .intro__text strong {
       color: #fff; }
+    .intro__text a {
+      display: inline-block;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.25); }
+      .intro__text a:hover, .intro__text a:active {
+        text-decoration: none; }
     @media screen and (max-width: 767px) {
       .intro__text {
         font-size: 1em;
@@ -318,7 +323,7 @@ img, iframe {
   background: #111 url("https://www.transparenttextures.com/patterns/concrete-wall.png");
   color: #fff; }
   .contact a {
-    color: #faca2e; }
+    color: #fbca21; }
   .contact i {
     font-size: 1.5em; }
   .contact__map {
@@ -389,7 +394,7 @@ img, iframe {
     color: #fff; }
     .classes__cta:hover, .classes__cta:active {
       background: #000;
-      color: #faca2e; }
+      color: #fbca21; }
   .classes .thumbnail {
     padding: 0.5em;
     border: none; }
@@ -410,11 +415,11 @@ img, iframe {
 
 .testimonials blockquote {
   margin: 0;
-  border-color: #faca2e; }
+  border-color: #fbca21; }
   .testimonials blockquote footer {
     font-size: 1.5em;
     text-align: center;
-    color: #faca2e; }
+    color: #fbca21; }
     .testimonials blockquote footer:before {
       display: none; }
 
@@ -429,7 +434,7 @@ img, iframe {
       bottom: 0;
       left: 0;
       width: 0.5em;
-      background: #faca2e;
+      background: #fbca21;
       content: ''; } }
   .transformations__items {
     text-align: center; }
@@ -450,7 +455,7 @@ img, iframe {
     border-color: #0e0e0e;
     color: #fff; }
   .transformations .article__cta {
-    background: #faca2e !important;
+    background: #fbca21 !important;
     color: #000 !important; }
 
 .transformation__gallery {
@@ -519,12 +524,12 @@ img, iframe {
   .breadcrumb__link {
     color: inherit; }
     .breadcrumb__link:hover, .breadcrumb__link:active {
-      color: #faca2e; }
+      color: #fbca21; }
 
 .share a {
   color: #000; }
   .share a:hover, .share a:active {
-    color: #faca2e; }
+    color: #fbca21; }
 
 .share i {
   font-size: 2em; }
