@@ -2,17 +2,16 @@
 layout: default
 title: Home
 description: Primal Fitness is a semi private gym specializing in 1 to 1 personal training and small group training
-banner:
-  images:
-    - https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/10451178_326035267585044_187388856617765806_n.jpg?oh=5e4b183cd38594c9a80ec6a49a07aa11&oe=59076E64
-    - https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/15873116_568082153380353_9011122106871954272_n.jpg?oh=aaed86a0cffa79ae3850674770a59b75&oe=591F3F40
-    - https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/16142545_574581262730442_8470239589938588830_n.jpg?oh=c17256e91513566e3bdd347d12163186&oe=59451001
+banner_images:
+    - image: https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/10451178_326035267585044_187388856617765806_n.jpg?oh=5e4b183cd38594c9a80ec6a49a07aa11&oe=59076E64
+    - image: https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/15873116_568082153380353_9011122106871954272_n.jpg?oh=aaed86a0cffa79ae3850674770a59b75&oe=591F3F40
+    - image: https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/16142545_574581262730442_8470239589938588830_n.jpg?oh=c17256e91513566e3bdd347d12163186&oe=59451001
 ---
 
 <div class="intro intro--lg">
   <div class="intro__media owl-carousel owl-theme js-home-slider">
-    {% for x in page.banner.images %}
-      <div class="intro__image" style="background-image: url('{{ x }}')"></div>
+    {% for x in page.banner_images %}
+      <div class="intro__image" style="background-image: url('{{ x.image }}')"></div>
     {% endfor %}
   </div>
   <div class="intro__inner">
