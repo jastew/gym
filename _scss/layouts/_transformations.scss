@@ -48,6 +48,11 @@
     &__cta {
       background: $c-primary !important;
       color: #000 !important;
+
+      &:hover,
+      &:active {
+        background: lighten($c-primary, 5) !important;
+      }
     }
   }
 }

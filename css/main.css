@@ -457,6 +457,8 @@ img, iframe {
   .transformations .article__cta {
     background: #fbca21 !important;
     color: #000 !important; }
+    .transformations .article__cta:hover, .transformations .article__cta:active {
+      background: #fbd03a !important; }
 
 .transformation__gallery {
   padding: 0.5rem;
@@ -591,6 +593,8 @@ img, iframe {
     background: #111 !important;
     border-color: #111 !important;
     color: #fff !important; }
+    .article__cta:hover, .article__cta:active {
+      background: #000 !important; }
 
 #video-modal {
   z-index: 99999; }

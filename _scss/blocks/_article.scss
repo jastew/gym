@@ -67,5 +67,10 @@
     background: #111 !important;
     border-color: #111 !important;
     color: #fff !important;
+
+    &:hover,
+    &:active {
+      background: #000 !important;
+    }
   }
 }
