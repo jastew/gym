@@ -5,6 +5,6 @@ img, iframe {
 }
 
 ::selection {
-  background: $c-primary; /* WebKit/Blink Browsers */
-  color: #000;
+  background: #000; /* WebKit/Blink Browsers */
+  color: $c-primary;
 }

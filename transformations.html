@@ -1,7 +1,44 @@
 ---
 layout: page
-title: Body Transformations
+title: Success Stories
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem rerum a blanditiis.
 banner_image: https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/16142545_574581262730442_8470239589938588830_n.jpg?oh=c17256e91513566e3bdd347d12163186&oe=59451001
 ---
 
-{% include transformations.html %}
+<div class="section">
+  <div class="container">
+
+    <form class="transformations__filter form-inline">
+      <div class="form-group">
+        <label for="transformations-gender" class="control-label">Sex</label>
+        <select id="transformations-gender" class="form-control js-transformations-gender">
+          <option value="both">Both</option>
+          <option value="male">Male</option>
+          <option value="female">Female</option>
+        </select>
+      </div>
+    </form>
+
+    <div class="row transformations__items"><!--
+      {% for transformation in site.transformations reversed %}
+    --><div class="col-xs-6 col-md-4 transformations__item js-transformations-item" data-gender="{{ transformation.gender }}">
+
+          <div class="article">
+            <div class="article__head">
+              <a href="{{ transformation.url }}" class="article__media">
+                <img src="{{ transformation.image }}" alt="">
+              </a>
+              <h3 class="article__title"><a href="{{ transformation.url }}">{{ transformation.name }}</a></h3>
+            </div>
+            <div class="article__body">
+              <div class="article__text">{{ transformation.description }}</div>
+              <a href="{{ transformation.url }}" class="btn article__cta">Learn More</a>
+            </div>
+          </div>
+
+        </div><!--
+      {% endfor %}
+    --></div>
+
+  </div>
+</div>

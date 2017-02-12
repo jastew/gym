@@ -42,4 +42,38 @@ $(document).ready(function () {
     dots: true,
   });
 
+  $('.js-transformation-gallery').owlCarousel({
+    items: 1,
+    autoplay: false,
+    nav: false,
+    dots: true,
+  });
+
+  // Transformations: Gender
+  var transformations = [];
+  var selected_gender = '';
+  $('.js-transformations-item').each(function (i, transformation) {
+    transformations.push({
+      gender: $(transformation).data('gender'),
+      el: transformation
+    });
+  });
+
+  $('.js-transformations-gender').on('change', function () {
+
+    // Dont loop through everything if same value
+    if ($(this).val() != selected_gender) {
+      selected_gender = $(this).val();
+
+      for (var i = 0; i < transformations.length; i++) {
+        if (selected_gender == 'both' || transformations[i].gender == selected_gender) {
+          $(transformations[i].el).show();
+        } else {
+          $(transformations[i].el).hide();
+        }
+      }
+    }
+
+  });
+
 });

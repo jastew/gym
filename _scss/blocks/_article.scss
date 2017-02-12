@@ -6,21 +6,50 @@
   }
 
   &__media {
+    position: relative;
+    overflow: hidden;
     display: block;
     margin-bottom: 1rem;
     padding-bottom: 100%;
-    background-size: cover;
-    background-position: 50% 0;
+    background-color: #111;
+    box-shadow: 0 0 0 0.25rem rgba(#000, 0.2);
+
+    img, .img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      margin: 0;
+      display: block;
+      margin: auto;
+      transform: scale(1.0);
+      transition: all 0.5s ease-in-out;
+      opacity: 1;
+    }
+    .img {
+      background-size: cover;
+      background-position: 50% 0;
+    }
+    &:hover {
+      .img, img {
+        transform: scale(1.05);
+        // opacity: 0.75;
+      }
+    }
   }
 
   &__title {
     position: absolute;
-    left: 0;
-    bottom: 0;
-    padding: 0.5rem 0.5rem 0 0;
+    left: -0.25rem;
+    bottom: -0.25rem;
+    z-index: 2;
+    padding: 0.5rem 0.5rem 0 0.25rem;
     margin: 0 1rem 0 0;
     font-weight: bold;
     background: #fff;
+    border-top: 0.25rem solid #ccc;
+    border-right: 0.25rem solid #ccc;
     color: #000;
 
     a {

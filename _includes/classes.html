@@ -17,16 +17,16 @@
 
       {% for class in site.classes %}
         <div class="col-sm-4">
-          <div class="classes__item">
-            <div class="classes__head">
-              <a href="{{ class.url }}" class="classes__media">
+          <div class="article">
+            <div class="article__head">
+              <a href="{{ class.url }}" class="article__media">
                 <img src="{{ class.image }}" alt="">
               </a>
-              <h3 class="classes__title"><a href="{{ class.url }}">{{ class.title }}</a></h3>
+              <h3 class="article__title"><a href="{{ class.url }}">{{ class.title }}</a></h3>
             </div>
-            <div class="classes__body">
-              <p>{{ class.description }}</p>
-              <a href="{{ class.url }}" class="classes__cta btn btn-primary">Learn More</a>
+            <div class="article__body">
+              <div class="article__text">{{ class.description }}</div>
+              <a href="{{ class.url }}" class="btn article__cta">Learn More</a>
             </div>
           </div>
         </div>

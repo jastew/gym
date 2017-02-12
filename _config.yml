@@ -37,15 +37,35 @@ collections:
   trainers:
     output: false
 
+permalink: pretty
+
+gender:
+  - male
+  - female
+
 defaults:
+  - scope:
+      path: ""
+    values:
+      banner_image: 
   - scope:
       type: posts
     values:
+      permalink: /blog/:title/
+      description:
       image: 'http://placehold.it/400x200&text=post'
+      is_post: true
   - scope:
       type: transformations
     values:
       layout: transformation
+      title:
+      gender:
+      date: 2017-01-01 00:00:00
+      description:
+      image: http://placehold.it/500x500&text=Transformation
+      gallery:
+        - image:
   - scope:
       type: classes
     values:

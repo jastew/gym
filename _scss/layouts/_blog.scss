@@ -1,0 +1,10 @@
+.blog {
+
+  &__item {
+    
+    @media screen and (max-width: 450px) {
+      display: block;
+      width: auto;
+    }
+  }
+}

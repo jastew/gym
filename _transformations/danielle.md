@@ -1,6 +1,12 @@
 ---
 name: Danielle
+gender: female
+description: Danielle went from x to y in only z weeks.
 image: https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/16640968_581982231990345_1164591775647015192_n.jpg?oh=607ea2b4da7d479f3259f5e81a0f2024&oe=5941B737
+gallery:
+  - image: https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/16640968_581982231990345_1164591775647015192_n.jpg?oh=607ea2b4da7d479f3259f5e81a0f2024&oe=5941B737
+  - image: https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/16508016_581982228657012_6859009684078014175_n.jpg?oh=897c6c7240ce9a28ebc0967b8ecdf2e8&oe=5932A610
+  - image: https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/16603066_581982235323678_8675042748872855774_n.jpg?oh=1af5caa2c473438c8fc094166f730991&oe=594B69AB
 ---
 What does dedication look like?
 

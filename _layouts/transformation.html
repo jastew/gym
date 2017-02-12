@@ -6,10 +6,20 @@ layout: page
   <div class="container">
     <div class="row">
       <div class="col-sm-4">
-        <img src="{{ page.image }}" alt="">
+        {% if page.gallery.size > 0 %}
+          <div class="owl-carousel owl-theme js-transformation-gallery">
+            {% for gallery_item in page.gallery %}
+              <img src="{{ gallery_item.image }}" alt="">
+            {% endfor %}
+          </div>
+        {% else %}
+          <img src="{{ page.image }}" alt="">
+        {% endif %}
       </div>
       <div class="col-sm-8">
         {{ content }}
+
+        <a href="/transformations/" class="editable btn btn-primary">More Success Stories</a>
       </div>
     </div>
   </div>

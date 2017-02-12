@@ -12,21 +12,27 @@ banner_image: /assets/img/team.jpg
 
     <div id="team" class="div">
       <h2>Meet the Team</h2>
-      {% for trainer in site.data.trainers %}
-        <div>
-          <div class="row">
+      <div class="row">
+        {% for trainer in site.data.trainers %}
 
-            <div class="col-sm-4">
-              <img src="{{ trainer.image }}" alt="">
-            </div>
-            <div class="col-sm-8">
-              <h3>{{ trainer.name }}</h3>
-              <p>{{ trainer.description }}</p>
+          <div class="col-md-4">
+
+            <div class="article">
+              <div class="article__head">
+                <div class="article__media">
+                  <img src="{{ trainer.image }}" alt="">
+                </div>
+                <h3 class="article__title">{{ trainer.name }}</h3>
+              </div>
+              <div class="article__body">
+                <div class="article__text">{{ trainer.description }}</div>
+              </div>
             </div>
 
           </div>
-        </div>
-      {% endfor %}
+
+        {% endfor %}
+      </div>
     </div>
   </div>
 </div>

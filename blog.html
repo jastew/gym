@@ -2,22 +2,23 @@
 layout: page
 title: Blog
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-banner_image: https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/10451178_326035267585044_187388856617765806_n.jpg?oh=5e4b183cd38594c9a80ec6a49a07aa11&oe=59076E64
 ---
-<div class="section">
+<div class="section blog">
   <div class="container">
-    <div class="row">
+    <div class="row blog__items">
       {% for post in site.posts %}
-        <div class="col-xs-6 col-sm-4">
+        <div class="blog__item col-xs-6 col-sm-4">
           <div class="article">
             <div class="article__head">
-              <a href="{{ post.url }}" class="article__media" style="background-image: url('{{ post.image }}')"></a>
+              <a href="{{ post.url }}" class="article__media">
+                <span class="img" style="background-image: url('{{ post.image }}')"></span>
+              </a>
               <h3 class="article__title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
             </div>
             <div class="article__body">
               <p class="article__meta"><small>Posted on {{ post.date | date: '%d %B, %Y' }}</small></p>
               <div class="article__text">
-                {{ post.content | strip_html | truncatewords:20 }}
+                {{ post.description }}
               </div>
               <a href="{{ post.url }}" class="article__cta btn btn-primary">Read More</a>
             </div>
