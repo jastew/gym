@@ -14,8 +14,6 @@ collections:
     output: true
   transformations:
     output: true
-  trainers:
-    output: false
 
 permalink: pretty
 
