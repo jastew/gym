@@ -189,7 +189,7 @@ img, iframe {
     padding: 8rem 0 8rem; }
     @media screen and (max-width: 450px) {
       .intro--lg {
-        padding: 3em 0 3em; } }
+        padding: 4em 0; } }
   .intro:before {
     display: inline-block;
     vertical-align: middle;
@@ -292,6 +292,9 @@ img, iframe {
   color: #000; }
   .section__header {
     margin-bottom: 2em; }
+    @media screen and (max-width: 767px) {
+      .section__header {
+        text-align: left !important; } }
   .section__title {
     position: relative;
     font-size: 3em;
