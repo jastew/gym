@@ -83,9 +83,9 @@ $(document).ready(function () {
 
       for (var i = 0; i < transformations.length; i++) {
         if (selected_gender == 'both' || transformations[i].gender == selected_gender) {
-          $(transformations[i].el).show();
+          $(transformations[i].el).fadeIn();
         } else {
-          $(transformations[i].el).hide();
+          $(transformations[i].el).fadeOut();
         }
       }
     }

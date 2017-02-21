@@ -189,7 +189,7 @@ img, iframe {
     padding: 8rem 0 8rem; }
     @media screen and (max-width: 450px) {
       .intro--lg {
-        padding: 5em 0 3em; } }
+        padding: 3em 0 3em; } }
   .intro:before {
     display: inline-block;
     vertical-align: middle;
@@ -661,6 +661,7 @@ img, iframe {
 
 .owl-carousel .owl-dot span {
   opacity: 0.5 !important;
+  display: inline-block !important;
   background: #000 !important; }
 
 .owl-carousel .owl-dot.active span {
