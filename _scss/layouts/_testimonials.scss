@@ -1,7 +1,8 @@
 .testimonials {
   // text-align: center;
-  // background: #111 url('https://www.transparenttextures.com/patterns/concrete-wall.png');
+  background: #fff url('https://www.transparenttextures.com/patterns/concrete-wall.png');
   // color: #fff;
+
 
   &__items {
 
@@ -11,20 +12,47 @@
 
   }
 
-  blockquote {
-    // padding: 0;
-    margin: 0;
+  &__quote {
+    overflow: visible;
+    max-width: 800px;
+    padding: 0;
+    margin: 0 auto;
+    // text-align: center;
     // border: none;
-    border-color: $c-primary;
+    border: none;
 
-    footer {
-      font-size: 1.5em;
-      text-align: center;
-      color: $c-primary;
+    p {
+      position: relative;
+      padding: 1.75rem 1rem;
 
-      &:before {
-        display: none;
+      &:before,
+      &:after {
+        // position: absolute;
+        // height: 0.5em;
+        font-size: 1.5em;
+        line-height: 1;
+        opacity: 0.5;
       }
+      &:before {
+        top: -0.5rem;
+        left: -0.5rem;
+        content: open-quote;
+      }
+      &:after {
+        bottom: -0.5rem;
+        right: -0.5rem;
+        content: close-quote;
+      }
+    }
+  }
+
+  &__name {
+    font-size: 1.5em;
+    text-align: center;
+    color: #000;
+
+    &:before {
+      // display: none;
     }
   }
 
@@ -32,5 +60,13 @@
     // float: none;
     // display: inline-block;
     // vertical-align: middle;
+  }
+
+  .owl-dot span {
+    background: #000 !important;
+    opacity: 0.5;
+  }
+  .owl-dot.active span {
+    opacity: 1;
   }
 }

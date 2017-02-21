@@ -1,5 +1,6 @@
 .navbar {
   padding: 1em 3em;
+  margin: 0;
   text-transform: uppercase;
   font-weight: normal;
   // letter-spacing: 1px;
@@ -15,8 +16,19 @@
   li {
     // margin-left: 0.5rem;
   }
+  .navbar-nav {
+    // text-align: center;
+    // float: none;
 
-  a {
+    @media screen and (max-width: 1100px) {
+      // float: right;
+    }
+  }
+  .navbar-nav li {
+    // float: none;
+    // display: inline-block;
+  }
+  .navbar-nav a {
     display: block;
     padding: 0.5rem 0.75rem !important;
     // text-shadow: 0 0 3px #000;
@@ -34,8 +46,10 @@
     &.nav_highlight {
       margin-left: 0.5rem;
       font-weight: bold;
-      border: 1px solid #fff;
+      letter-spacing: 1px;
+      background: $c-primary;
       border-radius: 3px;
+      color: #000;
     }
   }
 
@@ -55,7 +69,7 @@
     .icon-bar {
       position: relative;
       left: 0;
-      background: #fff;
+      background: $c-primary;
       transform-origin: 0;
       transform: rotate(0);
       transition: all 0.3s ease-in-out;
@@ -82,13 +96,20 @@
   }
 
   &-brand {
-    padding: 0.5em 1em;
+    height: 2rem;
+    padding: 0 1em;
+
+    @media screen and (min-width: 767px) {
+      // position: absolute;
+      // left: 3rem;
+    }
   }
 
   @media screen and (max-width: 767px) {
     padding: 0;
 
     &-brand {
+      height: 3rem;
       padding: 0.5em;
     }
 
@@ -138,6 +159,12 @@
         padding: 0.5em !important;
         border: none !important;
       }
+    }
+    .navbar-nav {
+      float: none;
+    }
+    .navbar-nav li {
+      display: block;
     }
     &-social {
       text-align: center;

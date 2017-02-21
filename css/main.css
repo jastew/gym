@@ -14,11 +14,18 @@ img, iframe {
   color: #fbca21; }
 
 .header {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
-  z-index: 9999; }
+  z-index: 9999;
+  background: transparent;
+  -webkit-transition: all 0.25s ease-out;
+  transition: all 0.25s ease-out; }
+  .header.is-active {
+    background: rgba(0, 0, 0, 0.95);
+    -webkit-transition: all 0.5s ease-in;
+    transition: all 0.5s ease-in; }
 
 .footer {
   padding-top: 0;
@@ -45,6 +52,7 @@ img, iframe {
 
 .navbar {
   padding: 1em 3em;
+  margin: 0;
   text-transform: uppercase;
   font-weight: normal;
   background: none;
@@ -54,22 +62,24 @@ img, iframe {
     .navbar {
       padding-left: 0;
       padding-right: 0; } }
-  .navbar a {
+  .navbar .navbar-nav a {
     display: block;
     padding: 0.5rem 0.75rem !important;
     font-size: 90%;
     font-weight: normal;
     letter-spacing: 0.05em;
     color: inherit; }
-    .navbar a:hover, .navbar a:active {
+    .navbar .navbar-nav a:hover, .navbar .navbar-nav a:active {
       background: none !important;
       text-decoration: underline !important; }
-    .navbar a.nav_highlight {
+    .navbar .navbar-nav a.nav_highlight {
       margin-left: 0.5rem;
       font-weight: bold;
-      border: 1px solid #fff;
+      letter-spacing: 1px;
+      background: #fbca21;
       -webkit-border-radius: 3px;
-              border-radius: 3px; }
+              border-radius: 3px;
+      color: #000; }
   .navbar-toggle {
     position: relative; }
     .navbar-toggle:before {
@@ -82,7 +92,7 @@ img, iframe {
     .navbar-toggle .icon-bar {
       position: relative;
       left: 0;
-      background: #fff;
+      background: #fbca21;
       -webkit-transform-origin: 0;
           -ms-transform-origin: 0;
               transform-origin: 0;
@@ -107,11 +117,13 @@ img, iframe {
           -ms-transform: rotate(-45deg);
               transform: rotate(-45deg); }
   .navbar-brand {
-    padding: 0.5em 1em; }
+    height: 2rem;
+    padding: 0 1em; }
   @media screen and (max-width: 767px) {
     .navbar {
       padding: 0; }
       .navbar-brand {
+        height: 3rem;
         padding: 0.5em; }
       .navbar-header {
         position: relative;
@@ -151,6 +163,10 @@ img, iframe {
           text-transform: uppercase;
           padding: 0.5em !important;
           border: none !important; }
+      .navbar .navbar-nav {
+        float: none; }
+      .navbar .navbar-nav li {
+        display: block; }
       .navbar-social {
         text-align: center; }
         .navbar-social a {
@@ -158,16 +174,16 @@ img, iframe {
 
 .intro {
   position: relative;
-  padding: 4rem 0 2rem;
+  padding: 3rem 0 2rem;
   margin: 0;
-  text-align: center;
-  background-color: #222;
+  background-color: #333;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
+  background-position: center;
+  background-attachment: fixed;
   color: #fff; }
   .intro--lg {
-    padding: 12rem 0 10rem; }
+    padding: 8rem 0 8rem; }
     @media screen and (max-width: 450px) {
       .intro--lg {
         padding: 5em 0 3em; } }
@@ -184,7 +200,7 @@ img, iframe {
     bottom: 0;
     left: 0;
     z-index: 2;
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.7);
     content: ''; }
   .intro__media {
     position: absolute;
@@ -219,18 +235,20 @@ img, iframe {
     background-color: #000;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center; }
+    background-position: center center;
+    background-attachment: fixed; }
   .intro__inner {
     position: relative;
     z-index: 3;
-    display: inline-block;
     vertical-align: middle; }
   .intro__title {
-    font-size: 4em;
-    font-weight: normal;
+    display: inline-block;
+    font-size: 4rem;
+    font-weight: bold;
     line-height: 0.9;
     letter-spacing: 1px;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    text-shadow: 0 1px 1px 3px #000; }
     @media screen and (max-width: 767px) {
       .intro__title {
         font-size: 2.5em; } }
@@ -239,16 +257,14 @@ img, iframe {
   .intro__text {
     max-width: 40em;
     margin-bottom: 1em;
-    margin-left: auto;
-    margin-right: auto;
     font-size: 1.1em;
-    line-height: 1.2;
-    color: #bbb; }
+    line-height: 1.4;
+    text-shadow: 0 1px 1px 3px #000;
+    color: #ccc; }
     .intro__text strong {
       color: #fff; }
     .intro__text a {
-      display: inline-block;
-      border-bottom: 1px solid rgba(255, 255, 255, 0.25); }
+      display: inline-block; }
       .intro__text a:hover, .intro__text a:active {
         text-decoration: none; }
     @media screen and (max-width: 767px) {
@@ -257,18 +273,16 @@ img, iframe {
         letter-spacing: 0;
         opacity: 1; } }
   .intro__cta {
-    display: inline-block;
-    width: 1.75em;
-    height: 1.75em;
-    font-size: 2.5em;
-    line-height: 1.65;
-    text-align: center;
-    border: 0.1em solid;
-    -webkit-border-radius: 50%;
-            border-radius: 50%;
-    color: #fff !important; }
+    font-size: 1.2rem;
+    font-weight: bold;
+    background: #fbca21 !important;
+    border: none;
+    color: #111 !important; }
     .intro__cta i {
-      margin-left: 0.2em; }
+      float: right;
+      margin-top: 0.25rem;
+      margin-left: 0.5rem;
+      opacity: 0.2; }
 
 .section {
   padding: 3em 0;
@@ -276,6 +290,7 @@ img, iframe {
   .section__header {
     margin-bottom: 2em; }
   .section__title {
+    position: relative;
     font-size: 3em;
     font-weight: bold;
     text-transform: uppercase;
@@ -413,29 +428,49 @@ img, iframe {
     border-color: #000 !important;
     color: #fff !important; }
 
-.testimonials blockquote {
-  margin: 0;
-  border-color: #fbca21; }
-  .testimonials blockquote footer {
+.testimonials {
+  background: #fff url("https://www.transparenttextures.com/patterns/concrete-wall.png"); }
+  .testimonials__quote {
+    overflow: visible;
+    max-width: 800px;
+    padding: 0;
+    margin: 0 auto;
+    border: none; }
+    .testimonials__quote p {
+      position: relative;
+      padding: 1.75rem 1rem; }
+      .testimonials__quote p:before, .testimonials__quote p:after {
+        font-size: 1.5em;
+        line-height: 1;
+        opacity: 0.5; }
+      .testimonials__quote p:before {
+        top: -0.5rem;
+        left: -0.5rem;
+        content: open-quote; }
+      .testimonials__quote p:after {
+        bottom: -0.5rem;
+        right: -0.5rem;
+        content: close-quote; }
+  .testimonials__name {
     font-size: 1.5em;
     text-align: center;
-    color: #fbca21; }
-    .testimonials blockquote footer:before {
-      display: none; }
+    color: #000; }
+  .testimonials .owl-dot span {
+    background: #000 !important;
+    opacity: 0.5; }
+  .testimonials .owl-dot.active span {
+    opacity: 1; }
 
 .transformations {
   position: relative;
   background: #111 url("https://www.transparenttextures.com/patterns/concrete-wall.png");
   color: #fff; }
-  @media screen and (min-width: 767px) {
-    .transformations:before {
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      width: 0.5em;
-      background: #fbca21;
-      content: ''; } }
+  .transformations__cta {
+    font-weight: bold;
+    letter-spacing: 1px;
+    background: #fbca21 !important;
+    border: none;
+    color: #000 !important; }
   .transformations__items {
     text-align: center; }
   .transformations__item {
@@ -450,6 +485,8 @@ img, iframe {
   .transformations__filter {
     margin-bottom: 2rem;
     text-align: center; }
+  .transformations .article__media {
+    padding-bottom: 100% !important; }
   .transformations .article__title {
     background: #111;
     border-color: #0e0e0e;
@@ -461,11 +498,9 @@ img, iframe {
       background: #fbd03a !important; }
 
 .transformation__gallery {
-  padding: 0.5rem;
-  margin-bottom: 2rem;
-  background: #111;
-  -webkit-border-radius: 3px;
-          border-radius: 3px; }
+  margin-bottom: 2rem; }
+  .transformation__gallery .owl-stage-outer {
+    border: 1px solid #000; }
   .transformation__gallery .owl-item {
     float: none;
     display: inline-block;
@@ -499,12 +534,18 @@ img, iframe {
 
 .btn {
   text-transform: uppercase; }
+  .btn-primary {
+    font-weight: bold;
+    letter-spacing: 1px;
+    background: #fbca21 !important;
+    border: none;
+    color: #000; }
 
 .breadcrumb {
   margin: 0;
   font-size: 90%;
-  background: #111;
-  border-bottom: 1px solid #000;
+  background: #eee;
+  border-bottom: 1px solid #ddd;
   -webkit-border-radius: 0;
           border-radius: 0;
   color: #888; }
@@ -519,7 +560,7 @@ img, iframe {
       display: inline-block;
       margin-left: 0.75rem;
       font-size: 75%;
-      content: '>';
+      content: '-';
       opacity: 0.5; }
     .breadcrumb__item:last-child:after {
       display: none; }
@@ -544,11 +585,10 @@ img, iframe {
     position: relative;
     overflow: hidden;
     display: block;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     padding-bottom: 100%;
     background-color: #111;
-    -webkit-box-shadow: 0 0 0 0.25rem rgba(0, 0, 0, 0.2);
-            box-shadow: 0 0 0 0.25rem rgba(0, 0, 0, 0.2); }
+    border: 1px solid #000; }
     .article__media img, .article__media .img {
       position: absolute;
       top: 0;
@@ -573,16 +613,17 @@ img, iframe {
               transform: scale(1.05); }
   .article__title {
     position: absolute;
-    left: -0.25rem;
-    bottom: -0.25rem;
+    left: 0;
+    bottom: 0;
     z-index: 2;
-    padding: 0.5rem 0.5rem 0 0.25rem;
+    padding: 0.5rem 1rem 0 0;
     margin: 0 1rem 0 0;
     font-weight: bold;
     background: #fff;
-    border-top: 0.25rem solid #ccc;
-    border-right: 0.25rem solid #ccc;
-    color: #000; }
+    border-width: 1px 1px 0 0;
+    border-style: solid;
+    border-color: #000;
+    color: #111; }
     .article__title a {
       color: inherit; }
   .article__text {
@@ -590,16 +631,37 @@ img, iframe {
   .article__cta {
     display: block;
     font-weight: bold;
+    letter-spacing: 1px;
     background: #111 !important;
     border-color: #111 !important;
     color: #fff !important; }
     .article__cta:hover, .article__cta:active {
       background: #000 !important; }
+  .article__date {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0.5rem;
+    font-weight: bold;
+    line-height: 1;
+    text-align: center;
+    background: #000;
+    border-width: 0 0 1px 1px;
+    border-style: solid;
+    border-color: #000;
+    color: #fff; }
 
 #video-modal {
   z-index: 99999; }
   #video-modal .modal-content {
     background: none; }
+
+.owl-carousel .owl-dot span {
+  opacity: 0.5 !important;
+  background: #000 !important; }
+
+.owl-carousel .owl-dot.active span {
+  opacity: 1 !important; }
 
 html {
   font-size: 16px; }

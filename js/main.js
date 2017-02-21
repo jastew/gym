@@ -3,6 +3,22 @@ $(document).ready(function () {
   $('.navbar-toggle').on('click', function () {
     $(this).toggleClass('is-active');
   });
+  $('.js-nav-contact').on('click', function () {
+    $('.navbar-toggle').toggleClass('is-active');
+  });
+
+  var headerActive = false;
+  // Scroll header transparency
+  $(window).scroll(function (x) {
+    var scrollValue =  $(this).scrollTop();
+    if (scrollValue > 1 && headerActive == false) {
+      headerActive = true;
+      $('.header').addClass('is-active');
+    } else if (scrollValue < 1 && headerActive == true) {
+      headerActive = false;
+      $('.header').removeClass('is-active');
+    }
+  });
 
   // Modal video
   /* Get iframe src attribute value i.e. YouTube video url

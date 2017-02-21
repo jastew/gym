@@ -1,19 +1,14 @@
 .transformations {
   position: relative;
   background: #111 url('https://www.transparenttextures.com/patterns/concrete-wall.png');
-  // border-left: 0.5em solid $c-primary;
   color: #fff;
 
-  @media screen and (min-width: 767px) {
-    &:before {
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      width: 0.5em;
-      background: $c-primary;
-      content: '';
-    }
+  &__cta {
+    font-weight: bold;
+    letter-spacing: 1px;
+    background: $c-primary !important;
+    border: none;
+    color: #000 !important;
   }
 
   &__items {
@@ -39,6 +34,10 @@
 
   .article {
 
+    &__media {
+      padding-bottom: 100% !important;
+    }
+
     &__title {
       background: #111;
       border-color: #0e0e0e;
@@ -60,10 +59,14 @@
 .transformation {
 
   &__gallery {
-    padding: 0.5rem;
+    // padding: 0.5rem;
     margin-bottom: 2rem;
-    background: #111;
-    border-radius: 3px;
+    // background: #111;
+    // border-radius: 3px;
+
+    .owl-stage-outer {
+      border: 1px solid #000;
+    }
 
     .owl-item {
       float: none;
