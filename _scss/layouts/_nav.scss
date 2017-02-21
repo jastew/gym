@@ -16,12 +16,12 @@
   li {
     // margin-left: 0.5rem;
   }
-  .navbar-nav {
+  .navbar-collapse {
     // text-align: center;
     // float: none;
 
-    @media screen and (max-width: 1100px) {
-      // float: right;
+    @media screen and (min-width: 767px) {
+      height: auto !important;
     }
   }
   .navbar-nav li {
@@ -47,7 +47,7 @@
       margin-left: 0.5rem;
       font-weight: bold;
       letter-spacing: 1px;
-      background: $c-primary;
+      background: $c-primary !important;
       border-radius: 3px;
       color: #000;
     }
