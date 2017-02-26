@@ -3,6 +3,7 @@ name: John Doe
 gender:
   - male
 description: John came in looking to gain mass and get stronger which he did in only x weeks.
+image: /uploads/john-1.jpg
 images:
   - image: /uploads/john-1.jpg
 ---
