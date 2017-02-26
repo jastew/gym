@@ -1,6 +1,6 @@
 title: Primal Fitness
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blue-turnip.cloudvent.net" 
+url: "http://blue-turnip.cloudvent.net"
 logo: /assets/img/logo.png
 location: Greenhills Industrial Village, Greenhills, Drogheda, Co.Louth, Ireland
 phone: 086 190 4801
@@ -32,6 +32,7 @@ defaults:
     values:
       permalink: /blog/:title/
       description:
+      type: article
       image: 'http://placehold.it/400x200&text=post'
       is_post: true
   - scope:
@@ -39,6 +40,7 @@ defaults:
     values:
       layout: transformation
       permalink: /stories/:title/
+      type: article
       title:
       gender:
       date: 2017-01-01 00:00:00
