@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Primal Fitness - {{ page.title }}</title>
+  <title>{{ site.title }} - {{ page.title }}</title>
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <link rel="stylesheet" href="/assets/plugins/owl-carousel/owl.carousel.min.css">
@@ -11,23 +11,31 @@
   <link rel="stylesheet" href="/css/main.css">
   <meta name="theme-color" content="#000">
 
+  <meta content="{{ site.title }}" property="og:site_name">
   {% if page.title %}
-  <meta property="og:title" content="{{ page.title }}">
+    <meta content="{{ page.title }}" property="og:title">
+  {% else %}
+    <meta content="{{ site.title }}" property="og:title">
   {% endif %}
 
-  {% if page.type %}
-  <meta property="og:type" content="{{ page.type }}">
-  {% endif %}
+  <meta content="{{ page.title }}" property="og:type">
 
   {% if page.description %}
-  <meta name="description" content="{{page.description}}">
-  <meta property="og:description" content="{{ page.description }}">
+    <meta content="{{ page.description }}" property="og:description">
+  {% else %}
+    <meta content="{{ site.description }}" property="og:description">
   {% endif %}
-
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
- 
+  {% if page.url %}
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+  {% endif %}
+  {% if page.date %}
+    <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+    <!-- <meta content="{{ site.url }}/about/" property="article:author"> -->
+  {% endif %}
   {% if page.image %}
-  <meta property="og:image" content="{{ page.image }}">
+    <meta content="{{ page.image }}" property="og:image">
+  {% else %}
+    <meta content="{{ site.logo }}" property="og:image">
   {% endif %}
 
 </head>
