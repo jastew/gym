@@ -3,6 +3,7 @@ name: 'David & Mark'
 gender:
   - male
 description: This dynamic duo came together and x and y
+image: /uploads/mark-1.jpg
 images:
   - image: /uploads/mark-1.jpg
   - image: /uploads/mark-2.jpg
