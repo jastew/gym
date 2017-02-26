@@ -1,11 +1,14 @@
 ---
-name: David & Mark
-gender: male
+name: 'David & Mark'
+gender:
+  - male
 description: This dynamic duo came together and x and y
 images:
-  - image: https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/15492161_558806864307882_5412464044276031438_n.jpg?oh=80aad62e328496fff9fad3b81db0dde9&oe=59082DA9
-  - image: https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/15977247_570552533133315_214947078847827112_n.jpg?oh=dbda63e46353e43685b9ec45a1110aa7&oe=5939F58C
+  - image: /uploads/mark-1.jpg
+  - image: /uploads/mark-2.jpg
 ---
+
+
 David and Mark are 2 of our most dedicated members, starting just over 12 weeks ago they wanted to lose some weight and get a bit fitter.
 
 David loosing 3 stone and mark loosing 1 stone, unreal progress so far from the lads.
@@ -19,7 +22,7 @@ No magic pill, no quick fix, no extreme diet.
 
 Just hard work and persistence, making a few simple changes to their diet, no banning of food groups.
 
-The 2 lads train with another mate johnny who joined purely for fitness and strength..... and has made unreal progress too.
+The 2 lads train with another mate johnny who joined purely for fitness and strength….. and has made unreal progress too.
 
 The lads train once in a small group setting and do two conditioning classes each week.
 
