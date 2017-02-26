@@ -3,6 +3,7 @@ name: Danielle
 gender:
   - female
 description: Danielle went from x to y in only z weeks.
+image: /uploads/daniell-1.jpg
 images:
   - image: /uploads/daniell-1.jpg
   - image: /uploads/danielle-2.jpg
