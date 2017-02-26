@@ -8,7 +8,7 @@
       <div class="editable section__text">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem rerum a blanditiis.</p>
       </div>
-      <p><a href="/stories/" class="transformations__cta editable btn btn-primary">View all Stories</a></p>
+      <p><a href="{{ site.baseurl }}/stories/" class="transformations__cta editable btn btn-primary">View all Stories</a></p>
     </div>
   </div>
 
@@ -19,14 +19,14 @@
 
           <div class="article">
             <div class="article__head">
-              <a href="{{ transformation.url }}" class="article__media">
-                <img src="{{ transformation.images[0].image }}" alt="">
+              <a href="{{ site.baseurl }}{{ transformation.url }}" class="article__media">
+                <img src="{{ site.baseurl }}{{ transformation.images[0].image }}" alt="">
               </a>
-              <h3 class="article__title"><a href="{{ transformation.url }}">{{ transformation.name }}</a></h3>
+              <h3 class="article__title"><a href="{{ site.baseurl }}{{ transformation.url }}">{{ transformation.name }}</a></h3>
             </div>
             <div class="article__body">
               <div class="article__text">{{ transformation.description }}</div>
-              <a href="{{ transformation.url }}" class="btn article__cta">Learn More</a>
+              <a href="{{ site.baseurl }}{{ transformation.url }}" class="btn article__cta">Learn More</a>
             </div>
           </div>
 

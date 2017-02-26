@@ -1,6 +1,6 @@
 title: Primal Fitness Drogheda
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jastew.github.io/gym/"
+baseurl: "/gym" # the subpath of your site, e.g. /blog
+url: "https://jastew.github.io"
 logo: /assets/img/logo.png
 location: Greenhills Industrial Village, Greenhills, Drogheda, Co.Louth, Ireland
 phone: 086 190 4801

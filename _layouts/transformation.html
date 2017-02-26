@@ -9,7 +9,7 @@ layout: page
           <div class="transformation__gallery">
             <div class="owl-carousel owl-theme js-transformation-gallery">
               {% for gallery_item in page.images %}
-                <img src="{{ gallery_item.image }}" alt="">
+                <img src="{{ site.baseurl }}{{ gallery_item.image }}" alt="">
               {% endfor %}
             </div>
           </div>
@@ -17,7 +17,7 @@ layout: page
       <div class="col-sm-7">
         {{ content }}
 
-        <a href="/stories/" class="editable btn btn-primary">More Success Stories</a>
+        <a href="{{ site.baseurl }}/stories/" class="editable btn btn-primary">More Success Stories</a>
       </div>
     </div>
   </div>

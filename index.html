@@ -10,13 +10,13 @@ banner_images:
 <div class="intro intro--lg">
   <div class="intro__media owl-carousel owl-theme js-home-slider">
     {% for x in page.banner_images %}
-      <div class="intro__image" style="background-image: url('{{ x.image }}')"></div>
+      <div class="intro__image" style="background-image: url('{{ site.baseurl }}{{ x.image }}')"></div>
     {% endfor %}
   </div>
   <div class="intro__inner">
     <div class="container">
       <h1 class="intro__title editable"><strong>Hard&nbsp;Work</strong> Beats&nbsp;Talent</h1>
-      <p class="intro__text editable"><strong>Primal Fitness</strong> is a semi private gym specializing in <a href="/classes/1-on-1/"><strong>1 to 1 personal training</strong></a> and <a href="/classes/small-group-training/"><strong>small group training</strong></a></p>
+      <p class="intro__text editable"><strong>Primal Fitness</strong> is a semi private gym specializing in <a href="{{ site.baseurl }}/classes/1-on-1/"><strong>1 to 1 personal training</strong></a> and <a href="{{ site.url }}/classes/small-group-training/"><strong>small group training</strong></a></p>
       <p><a href="#video-modal" class="btn btn-primary intro__cta" data-toggle="modal"><i class="fa fa-play"></i> <span class="">Watch Video</span></a></p>
     </div>
   </div>
@@ -33,7 +33,7 @@ banner_images:
     <div class="row">
       <div class="col-sm-6 col-align-v">
          <div class="story__media">
-           <img class="editable" src="/assets/img/team.jpg" alt="" />
+           <img class="editable" src="{{ site.baseurl }}/assets/img/team.jpg" alt="" />
          </div>
        </div><!--
     --><div class="col-sm-6 col-align-v">
@@ -42,7 +42,7 @@ banner_images:
         <div class="editable">
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ipsum diam, volutpat at neque dapibus, sodales accumsan justo. Suspendisse diam nibh, porttitor et convallis quis, tincidunt ut nibh. Donec eget nulla at elit pretium condimentum id eu sapien. Morbi hendrerit, nibh quis sollicitudin auctor, arcu ex iaculis nunc, viverra porta ante ex ac ante. Sed vitae semper lectus, id hendrerit justo. Vestibulum id mi massa. Nulla quis tempor erat.</p>
         </div>
-        <p><a href="/about.html" class="btn btn- btn-primary editable">Meet the Team</a></p>
+        <p><a href="{{ site.baseurl }}/about/" class="btn btn- btn-primary editable">Meet the Team</a></p>
       </div>
     </div>
   </div>
@@ -103,7 +103,7 @@ banner_images:
   "@context": "http://schema.org",
   "@type": "Organization",
   "name": "Primal Fitness Drogheda",
-  "url": "{{ site.url }}",
+  "url": "{{ site.url }}{{ site.baseurl }}",
   "sameAs": [
     "{{ site.facebook }}",
     "{{ site.instagram }}",
