@@ -1,0 +1,55 @@
+.latest-posts {
+  clear: both;
+  
+  &__heading {
+    margin-top: 0;
+  }
+
+  &__items {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+  }
+
+  &__item {
+    overflow: hidden;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #ddd;
+
+    &:last-child {
+      border: none;
+    }
+  }
+
+  &__image {
+    position: relative;
+    overflow: hidden;
+    float: left;
+    display: block;
+    width: 33.3334%;
+    margin: 0 1rem 0 0;
+  }
+
+  &__title {
+    margin: 0;
+    font-size: 1em;
+    font-weight: bold;
+
+    a {
+      color: inherit !important;
+    }
+  }
+
+  &__item:first-child &__title {
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+
+  &__item:first-child &__image {
+    float: none;
+    width: auto;
+    max-width: none;
+    margin: 0 0 1rem;
+  }
+}

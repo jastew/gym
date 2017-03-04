@@ -14,10 +14,10 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 <span class="img" style="background-image: url('{{ site.baseurl }}{{ post.image }}')"></span>
               </a>
               <h3 class="article__title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-              <p class="article__date">{{ post.date | date: '%d' }}<br> {{ post.date | date: '%b' }}</p>
             </div>
             <div class="article__body">
               <div class="article__meta">
+                <p class="article__date"><small>Posted on {{ post.date | date: "%d %B, %Y" }}</small></p>
               </div>
               <div class="article__text">
                 {{ post.description }}

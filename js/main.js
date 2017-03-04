@@ -47,7 +47,7 @@ $(document).ready(function () {
     items: 1,
     nav: true,
     loop: true,
-    autoHeight:true,
+    autoHeight: true,
     navText: ['<span class="sr-only">Prev</span><i class="fa fa-angle-left"></i>', '<span class="sr-only">Next</span><i class="fa fa-angle-right"></i>']
   });
 
@@ -63,6 +63,7 @@ $(document).ready(function () {
     autoplay: false,
     nav: false,
     dots: true,
+    autoHeight: true,
   });
 
   // Transformations: Gender

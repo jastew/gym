@@ -8,4 +8,36 @@
     border: none;
     color: #000;
   }
+
+  &--icon {
+    padding: 0.5em;
+    line-height: 1;
+
+    i {
+      width: 1em;
+      height: 1em;
+      font-size: 1.5em;
+      line-height: 1;
+      text-align: center;
+    }
+  }
+
+  &--round {
+    border-radius: 50%;
+  }
+
+  &--facebook {
+    background: #3b5998;
+    color: #fff !important;
+  }
+
+  &--twitter {
+    background: #00aced;
+    color: #fff !important;
+  }
+
+  &--email {
+    background: #aaa;
+    color: #fff !important;
+  }
 }

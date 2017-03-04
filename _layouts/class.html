@@ -4,6 +4,22 @@ layout: page
 
 <div class="section">
   <div class="container">
-    {{ content }}
+    <div class="row">
+      <div class="col-sm-9">
+        {{ content }}
+      </div>
+      <div class="col-sm-3">
+        <h3 class="classes-other__heading">Other Classes</h3>
+        <ul class="classes-other__items">
+          {% for class in site.classes %}
+            {% if class.title != page.title %}
+              <li class="classes-other__item">
+                <h4 class="classes-other__title"><a href="{{ site.baseurl }}{{ class.url }}">{{ class.title }}</a></h4>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
   </div>
 </div>

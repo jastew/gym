@@ -1,10 +1,29 @@
 .post {
 
-  &__content {
-    margin-bottom: 2em;
+  &__meta {
+    float: left;
   }
 
   &__share {
-    text-align: center;
+    float: right;
+    margin-bottom: 1rem;
+  }
+
+  &__content {
+    clear: both;
+    margin-bottom: 2em;
+  }
+
+  &__pagination {
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+
+  &__next {
+    float: right;
+  }
+
+  &__prev {
+    float: left;
   }
 }

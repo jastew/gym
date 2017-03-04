@@ -30,7 +30,8 @@ img, iframe {
 .footer {
   padding-top: 0;
   font-size: 1.1em;
-  background: #222 url("https://www.transparenttextures.com/patterns/concrete-wall.png");
+  background: #010101 url("https://www.transparenttextures.com/patterns/concrete-wall.png");
+  border-top: 1px solid #000;
   color: #fff; }
   .footer__section {
     margin-bottom: 2em; }
@@ -164,7 +165,8 @@ img, iframe {
           letter-spacing: px;
           text-align: center;
           text-transform: uppercase;
-          padding: 0.5em !important;
+          padding: 0.75em !important;
+          background: none !important;
           border: none !important; }
       .navbar .navbar-nav {
         float: none; }
@@ -341,7 +343,7 @@ img, iframe {
       right: 0; }
 
 .contact {
-  background: #111 url("https://www.transparenttextures.com/patterns/concrete-wall.png");
+  background: #0f0f0f;
   color: #fff; }
   .contact a {
     color: #fbca21; }
@@ -349,23 +351,28 @@ img, iframe {
     font-size: 1.5em; }
   .contact__map {
     position: relative;
+    overflow: hidden;
+    display: block;
     height: 0;
     padding-bottom: 60%;
     max-height: 400px;
     -webkit-box-sizing: border-box;
             box-sizing: border-box; }
+    @media screen and (max-width: 1200px) {
+      .contact__map {
+        padding-bottom: 80%; } }
     @media screen and (max-width: 767px) {
       .contact__map {
-        margin-bottom: 1em; } }
-    .contact__map iframe {
+        margin-bottom: 2em; } }
+    .contact__map img {
       position: absolute;
       top: 0;
-      right: 0;
+      right: -100%;
       bottom: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      margin: auto; }
+      left: -100%;
+      margin: auto;
+      max-width: none;
+      max-height: none; }
 
 .classes {
   padding-top: 0;
@@ -419,6 +426,14 @@ img, iframe {
   .classes .thumbnail {
     padding: 0.5em;
     border: none; }
+
+.classes-other__heading {
+  margin-top: 0; }
+
+.classes-other__items {
+  padding: 0;
+  margin: 0;
+  list-style-type: none; }
 
 .story {
   background: #fff url("https://www.transparenttextures.com/patterns/rocky-wall.png"); }
@@ -505,23 +520,69 @@ img, iframe {
 
 .transformation__gallery {
   margin-bottom: 2rem; }
-  .transformation__gallery .owl-stage-outer {
-    border: 1px solid #000; }
-  .transformation__gallery .owl-item {
-    float: none;
-    display: inline-block;
-    vertical-align: middle; }
 
 @media screen and (max-width: 450px) {
   .blog__item {
     display: block;
     width: auto; } }
 
-.post__content {
-  margin-bottom: 2em; }
+.latest-posts {
+  clear: both; }
+  .latest-posts__heading {
+    margin-top: 0; }
+  .latest-posts__items {
+    padding: 0;
+    margin: 0;
+    list-style-type: none; }
+  .latest-posts__item {
+    overflow: hidden;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #ddd; }
+    .latest-posts__item:last-child {
+      border: none; }
+  .latest-posts__image {
+    position: relative;
+    overflow: hidden;
+    float: left;
+    display: block;
+    width: 33.3334%;
+    margin: 0 1rem 0 0; }
+  .latest-posts__title {
+    margin: 0;
+    font-size: 1em;
+    font-weight: bold; }
+    .latest-posts__title a {
+      color: inherit !important; }
+  .latest-posts__item:first-child .latest-posts__title {
+    font-weight: bold;
+    font-size: 1.2em; }
+  .latest-posts__item:first-child .latest-posts__image {
+    float: none;
+    width: auto;
+    max-width: none;
+    margin: 0 0 1rem; }
+
+.post__meta {
+  float: left; }
 
 .post__share {
-  text-align: center; }
+  float: right;
+  margin-bottom: 1rem; }
+
+.post__content {
+  clear: both;
+  margin-bottom: 2em; }
+
+.post__pagination {
+  overflow: hidden;
+  margin-bottom: 2rem; }
+
+.post__next {
+  float: right; }
+
+.post__prev {
+  float: left; }
 
 @media screen and (max-width: 1000px) {
   .container {
@@ -546,6 +607,27 @@ img, iframe {
     background: #fbca21 !important;
     border: none;
     color: #000; }
+  .btn--icon {
+    padding: 0.5em;
+    line-height: 1; }
+    .btn--icon i {
+      width: 1em;
+      height: 1em;
+      font-size: 1.5em;
+      line-height: 1;
+      text-align: center; }
+  .btn--round {
+    -webkit-border-radius: 50%;
+            border-radius: 50%; }
+  .btn--facebook {
+    background: #3b5998;
+    color: #fff !important; }
+  .btn--twitter {
+    background: #00aced;
+    color: #fff !important; }
+  .btn--email {
+    background: #aaa;
+    color: #fff !important; }
 
 .breadcrumb {
   margin: 0;
@@ -593,8 +675,7 @@ img, iframe {
     display: block;
     margin-bottom: 0.5rem;
     padding-bottom: 100%;
-    background-color: #111;
-    border: 1px solid #000; }
+    background-color: #111; }
     .article__media img, .article__media .img {
       position: absolute;
       top: 0;
@@ -618,17 +699,13 @@ img, iframe {
           -ms-transform: scale(1.05);
               transform: scale(1.05); }
   .article__title {
-    position: absolute;
     left: 0;
     bottom: 0;
     z-index: 2;
-    padding: 0.5rem 1rem 0 0;
-    margin: 0 1rem 0 0;
+    padding: 0;
+    margin: 0 0 0.5rem;
     font-weight: bold;
     background: #fff;
-    border-width: 1px 1px 0 0;
-    border-style: solid;
-    border-color: #000;
     color: #111; }
     .article__title a {
       color: inherit; }
@@ -643,19 +720,6 @@ img, iframe {
     color: #fff !important; }
     .article__cta:hover, .article__cta:active {
       background: #000 !important; }
-  .article__date {
-    position: absolute;
-    top: 0;
-    right: 0;
-    padding: 0.5rem;
-    font-weight: bold;
-    line-height: 1;
-    text-align: center;
-    background: #000;
-    border-width: 0 0 1px 1px;
-    border-style: solid;
-    border-color: #000;
-    color: #fff; }
 
 #video-modal {
   z-index: 99999; }
