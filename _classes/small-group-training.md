@@ -1,7 +1,7 @@
 ---
 title: Small Group Training
 description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
-image: /uploads/group.jpg
+image: /uploads/group-2.jpg
 ---
 
 
