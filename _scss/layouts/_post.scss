@@ -2,11 +2,19 @@
 
   &__meta {
     float: left;
+
+    @media screen and (max-width: 767px) {
+      float: none;
+    }
   }
 
   &__share {
     float: right;
     margin-bottom: 1rem;
+
+    @media screen and (max-width: 767px) {
+      float: none;
+    }
   }
 
   &__content {
@@ -25,5 +33,13 @@
 
   &__prev {
     float: left;
+  }
+
+  @media screen and (max-width: 767px) {
+    &__next,
+    &__prev {
+      float: none;
+      margin-bottom: 1em;
+    }
   }
 }

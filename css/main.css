@@ -565,10 +565,16 @@ img, iframe {
 
 .post__meta {
   float: left; }
+  @media screen and (max-width: 767px) {
+    .post__meta {
+      float: none; } }
 
 .post__share {
   float: right;
   margin-bottom: 1rem; }
+  @media screen and (max-width: 767px) {
+    .post__share {
+      float: none; } }
 
 .post__content {
   clear: both;
@@ -583,6 +589,11 @@ img, iframe {
 
 .post__prev {
   float: left; }
+
+@media screen and (max-width: 767px) {
+  .post__next, .post__prev {
+    float: none;
+    margin-bottom: 1em; } }
 
 @media screen and (max-width: 1000px) {
   .container {
