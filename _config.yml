@@ -17,7 +17,7 @@ collections:
 
 permalink: pretty
 
-gender:
+genders:
   - male
   - female
 
