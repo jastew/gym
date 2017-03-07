@@ -29,6 +29,7 @@ defaults:
   - scope:
       path: ""
     values:
+      layout: default
       type: website
       title:
       banner_image:
