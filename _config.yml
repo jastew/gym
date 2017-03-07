@@ -22,8 +22,8 @@ gender:
   - female
 
 author:
-  Stephen Walsh
-  Ben Cunningham
+  - Stephen Walsh
+  - Ben Cunningham
 
 defaults:
   - scope:
