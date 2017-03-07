@@ -35,6 +35,7 @@ defaults:
   - scope:
       type: posts
     values:
+      layout: post
       permalink: /blog/:title/
       description:
       type: article
