@@ -20,6 +20,10 @@ permalink: pretty
 gender:
   - male
   - female
+  
+author:
+  - Stephen Walsh
+  - Ben Cunningham
 
 defaults:
   - scope:
@@ -36,6 +40,7 @@ defaults:
       type: article
       image: 'http://placehold.it/400x200&text=post'
       is_post: true
+      author: Ben Cunningham
   - scope:
       type: transformations
     values:
