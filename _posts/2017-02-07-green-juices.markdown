@@ -9,6 +9,6 @@ banner_image:
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi impedit doloribus optio quasi dolor, dolore aspernatur suscipit voluptate maxime possimus in veritatis, repellendus voluptatibus rerum, non inventore pariatur laboriosam nam.
+Lorem ipsum dolor sit amet, consectetur [adipisicing](/classes/small-group-training/) elit. Animi impedit optio quasi dolor, dolore aspernatur suscipit voluptate maxime possimus in veritatis, repellendus voluptatibus rerum, non inventore pariatur laboriosam nam.
 
 This is some more text
