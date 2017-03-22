@@ -15,7 +15,7 @@
   <div class="container">
     <div class="row">
       {% for transformation_name in page.transformations %}
-        {{ assign transformation= site.transformations | where:"slug", transformation_name }}
+        {{ assign transformation= site.transformations | where:"slug", transformation_name | first }}
         <div class="col-sm-4">
 
           <div class="article">
