@@ -19,14 +19,14 @@
 
           <div class="article">
             <div class="article__head">
-              <a href="{{ site.baseurl }}{{ transformations[transformation].url }}" class="article__media">
-                <img src="{{ site.baseurl }}{{ transformations[transformation].images[0].image }}" alt="">
+              <a href="{{ site.baseurl }}{{ site.transformations[transformation].url }}" class="article__media">
+                <img src="{{ site.baseurl }}{{ site.transformations[transformation].images[0].image }}" alt="">
               </a>
-              <h3 class="article__title"><a href="{{ site.baseurl }}{{ transformations[transformation].url }}">{{ transformations[transformation].name }}</a></h3>
+              <h3 class="article__title"><a href="{{ site.baseurl }}{{ site.transformations[transformation].url }}">{{ site.transformations[transformation].name }}</a></h3>
             </div>
             <div class="article__body">
-              <div class="article__text">{{ transformations[transformation].description }}</div>
-              <a href="{{ site.baseurl }}{{ transformations[transformation].url }}" class="btn article__cta">Learn More</a>
+              <div class="article__text">{{ site.transformations[transformation].description }}</div>
+              <a href="{{ site.baseurl }}{{ site.transformations[transformation].url }}" class="btn article__cta">Learn More</a>
             </div>
           </div>
 
