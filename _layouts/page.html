@@ -6,10 +6,10 @@ layout: default
   <div class="intro__inner">
     <div class="container">
       {% if page.title %}
-        <h1 class="intro__title editable">personal training</h1>
+        <h1 class="intro__title">{{ page.title }}</h1>
       {% endif %}
       {% if page.description and page.is_post != true %}
-        <p class="intro__text editable"></p></div>
+        <p class="intro__text">{{ page.description }}</p></div>
   </div>
 </div>
 
