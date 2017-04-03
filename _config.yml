@@ -32,6 +32,7 @@ defaults:
       layout: default
       type: website
       title:
+      description: 
       banner_image:
   - scope:
       type: posts
