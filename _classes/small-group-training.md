@@ -1,5 +1,5 @@
 ---
-title: Small Group Training
+title: Semi Private Personal Training
 description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 image: /uploads/group-2.jpg
 ---
