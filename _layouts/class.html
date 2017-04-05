@@ -11,7 +11,8 @@ layout: page
       <div class="col-sm-3">
         <h3 class="classes-other__heading">Other Classes</h3>
         <ul class="classes-other__items">
-          {% for class in site.classes %}
+          {% assign classes = site.classes | sort: "index" %}
+          {% for class in classes %}
             {% if class.title != page.title %}
               <li class="classes-other__item">
                 <h4 class="classes-other__title"><a href="{{ site.baseurl }}{{ class.url }}">{{ class.title }}</a></h4>
