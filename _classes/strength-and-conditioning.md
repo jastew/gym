@@ -2,6 +2,7 @@
 title: 'Strength & Conditioning'
 description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam quas, asperiores sint!'
 image: /uploads/conditioning-2.jpg
+index: 3
 ---
 
 
