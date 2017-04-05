@@ -14,8 +14,8 @@
   <div class="container">
 
     <div class="row">
-
-      {% for class in site.classes %}
+      {% assign classes = site.classes | sort: "index" %}
+      {% for class in classes %}
         <div class="col-sm-6 col-md-3">
           <div class="article">
             <div class="article__head">
