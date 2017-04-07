@@ -1,9 +1,8 @@
 ---
 title: Semi Private Personal Training
-description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+description: affordable semi private personal training packages.
 image: /uploads/group-2.jpg
 index: 2
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur earum numquam vero, eos obcaecati corporis nobis repudiandae, eveniet quam ducimus. Omnis porro nulla, quis unde magnam, veritatis facere? Commodi, quia?
