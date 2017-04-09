@@ -1,6 +1,6 @@
 ---
 title: Semi Private Personal Training
-description: affordable semi private personal training packages.
+description: 'Get the Personal training experience at a fraction of the price !'
 image: /uploads/group-2.jpg
 index: 2
 ---
