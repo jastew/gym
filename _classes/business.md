@@ -1,6 +1,6 @@
 ---
 title: Healthy Business Programme
-description: Are you are business looking to ...
+description: 'The secret to a successful business is of course  ,happy and efficient employees. We bring this to companys using exercise and nutrition .'
 image: /uploads/1on1-2.jpg
 index: 4
 ---
