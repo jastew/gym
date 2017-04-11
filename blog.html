@@ -10,8 +10,8 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         <div class="blog__item col-xs-6 col-sm-4">
           <div class="article">
             <div class="article__head">
-              <a href="https://images.weserv.nl/?url={{ site.baseurl }}{{ post.url }}&w=400&h=200&t=square" class="article__media">
-                <span class="img" style="background-image: url('{{ site.baseurl }}{{ post.image }}')"></span>
+              <a href="{{ site.baseurl }}{{ post.url }}" class="article__media">
+                <span class="img" style="background-image: url('https://images.weserv.nl/?url={{ site.baseurl }}{{ post.image }}&w=400&h=200&t=square')"></span>
               </a>
               <h3 class="article__title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
             </div>
