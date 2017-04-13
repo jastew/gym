@@ -22,7 +22,13 @@ Because you can experience the Personal Training benefits and results at a fract
 
 ## **I HAVE A LOW LEVEL OF FITNESS, WILL I BE ABLE?**
 
-Our programming is scalable ,meaning we adapt the programme to suit your level of fitness and ability. A scaled workout simply means " Adjusting movements to account for an individuals. It doesn't matter if your 8 or 80 , there is a way to do every workout in a safe yet challenging.
+Our programming is scalable ,meaning we adapt the programme to suit your level of fitness and ability. A scaled workout simply means " Adjusting movements to account for an individuals. It doesn't matter if your 8 or 80 , there is a way to do every workout in a safe yet challenging way.
+
+&nbsp;
+
+## **I CANT AFFORD TO START SMALL GROUP TRAINING?!**
+
+There is literally no better investment you could make then in your health. Our Small group packages start at 35 euro ,If your gonna sit there and try convince yourself you cant drop 35 euro a week worth of bad habits your self esteams going to get a hit. because you know its not true.
 
 &nbsp;
 
