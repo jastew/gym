@@ -8,7 +8,7 @@ index: 2
 
 ## **WHAT IS SMALL GROUP PERSONAL TRAINING?**
 
-Small Group Personal Training is a community of like minded people chasing there strength and fitness goals together. Each training session is limited to six trainees per coach to ensure that everybody gets the attention they need. The group works off a progressive Systematic 6 Week Programme based around getting you shredded 6 pack abs , getting you strong as hell and preparing you for the inevitable zombie apocalypse !
+Small Group Personal Training is a community of like minded people chasing there strength and fitness goals together. Each training session is limited to six trainees per coach to ensure that everybody gets the attention they need. We warm up together , Sweat together and improve our lives together . Community is the heart of Primal Fitness , its what helps you push through those last few reps and what keeps you craving and coming back for more .
 
 &nbsp;
 
