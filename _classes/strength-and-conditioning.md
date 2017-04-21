@@ -18,4 +18,4 @@ If you want to lose weight , gain &nbsp;lean muscle in a friendly environment th
 
 &nbsp;
 
-The class is a 1 hour whole body workout using Kettlebells , Barbells , Dumbells , TRXs, Prowlers , Wall balls and your own body weight.Each class is held in a small group format to motivate and inspire you to achieve your fitness potential. You only have one body. Train like it.
+The class is a 1 hour whole body workout using Kettlebells , Barbells , Dumbells , TRXs, Prowlers , Wall balls and your own Body Weight. Each class is held in a small group format to motivate and inspire you to achieve your fitness potential. You only have one body. Train like it.
