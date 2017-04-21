@@ -1,7 +1,7 @@
 ---
 title: Semi Private Personal Training
 description: 'Benefit from Personal Training results at a fraction of the price , Our packages are between €30 and €40 per week.'
-image: /uploads/16388292_580657392122829_8971833823735004048_n.jpg
+image: /uploads/17880171-610386632483238-9130232070970429877-o.jpg
 index: 2
 ---
 
@@ -10,7 +10,7 @@ index: 2
 
 Small Group Personal Training is a community of like minded people chasing there strength and fitness goals together. Each training session is limited to six trainees per coach to ensure that everybody gets the attention they need. We warm up together , Sweat together and improve our lives together.Community is the heart of Primal Fitness , its what helps you push through those last few reps and what keeps you craving and coming back for more. The training programme is a scalable , progressive system that is changed every 6 weeks to keep the body guessing .
 
-##
+# #
 
 ## **WHY SMALL GROUP PERSONAL TRAINING?**
 
@@ -20,7 +20,7 @@ You can also expect to get better core strength and a tighter backside, as well 
 
 The Primal Fitness small groups is nothing like your local commercial gym , the cheers are louder, smiles are bigger and expectations are higher. That’s why you’ll be able to do a little more, move a little faster and stick with it a lot longer.
 
-##
+# #
 
 ## **I HAVE A LO****W LEVEL OF FITNESS, WILL I BE ABLE?**
 
@@ -42,11 +42,11 @@ Here brief list of potential negative habits that if you dropped would pay for y
 
 * Eating out for lunch 3 days week.
 
-##
+# #
 
 ## **I AM A FEMALE WHO WANTS TO START SMALL GROUP BUT DOESN’T FEEL COMFORTABLE TRAINING WITH MEN?!**
 
-##
+# #
 
 No problem , we have a number of “Woman only small group” that you can apply to join or you can start your own group with your friends/family.
 
