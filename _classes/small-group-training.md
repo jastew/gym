@@ -1,7 +1,7 @@
 ---
 title: Semi Private Personal Training
 description: 'Benefit from Personal Training results at a fraction of the price , Our packages are between €30 and €40 per week.'
-image: /uploads/17880171-610386632483238-9130232070970429877-o.jpg
+image: /uploads/17353153-597254370463131-5171979777414179871-n.jpg
 index: 2
 ---
 
