@@ -6,8 +6,18 @@ index: 4
 ---
 
 
-The quality of our health determines the quality of our lives and nothing is more important than that.
+&nbsp;
+
+At Primal Fitness, we believe real fitness is about more than getting on a treadmill and watching TV—it’s about strengthening and conditioning your body and mind so you can go out in the world and be the best version of yourself.
 
 &nbsp;
 
-At Primal Fitness, we believe real fitness is about more than getting on a treadmill and watching TV—it's about strengthening and conditioning your body and mind so you can get out there, explore the world, seek new adventures and be the person you were meant to be.
+&nbsp;
+
+Employees with poor health can cost a company a lot more than healthy employees do. In fact, many companies spend half of their corporate profits, or more, on medical costs for employees in poor health. However, most companies with successful wellness programs enjoy less absenteeism, higher productivity, lower incidences of job injuries, less employee turnover and fewer medical claims.
+
+&nbsp;
+
+&nbsp;
+
+The quality of our health determines the quality of our lives and nothing is more important than that.
