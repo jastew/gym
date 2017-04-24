@@ -16,22 +16,24 @@
     <div class="row">
       {% for transformation_name in page.transformations %}
         {% assign transformation = site.transformations | where: "slug", transformation_name | first %}
-        <div class="col-sm-4">
-
-          <div class="article">
-            <div class="article__head">
-              <a href="{{ site.baseurl }}{{ transformation.url }}" class="article__media">
-                <img src="{{ site.baseurl }}{{ transformation.image }}" alt="">
-              </a>
-              <h3 class="article__title"><a href="{{ site.baseurl }}{{ transformation.url }}">{{ transformation.name }}</a></h3>
+        {% if transformation.name && transformation.image %}
+            <div class="col-sm-4">
+    
+              <div class="article">
+                <div class="article__head">
+                  <a href="{{ site.baseurl }}{{ transformation.url }}" class="article__media">
+                    <img src="{{ site.baseurl }}{{ transformation.image }}" alt="">
+                  </a>
+                  <h3 class="article__title"><a href="{{ site.baseurl }}{{ transformation.url }}">{{ transformation.name }}</a></h3>
+                </div>
+                <div class="article__body">
+                  <div class="article__text">{{ transformation.description }}</div>
+                  <a href="{{ site.baseurl }}{{ transformation.url }}" class="btn article__cta">Learn More</a>
+                </div>
+              </div>
+    
             </div>
-            <div class="article__body">
-              <div class="article__text">{{ transformation.description }}</div>
-              <a href="{{ site.baseurl }}{{ transformation.url }}" class="btn article__cta">Learn More</a>
-            </div>
-          </div>
-
-        </div>
+        {% endif %}
       {% endfor %}
     </div>
   </div>
