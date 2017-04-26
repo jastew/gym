@@ -2,7 +2,7 @@
 name: Ciaran Smith
 gender: male
 description:
-image:
+image: /uploads/12342622-429569320564971-6492597750125833468-n.jpg
 images:
   - image: /uploads/12342622-429569320564971-6492597750125833468-n.jpg
   - image: /uploads/12345525-429569350564968-8311033521187650855-n.jpg
