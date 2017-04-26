@@ -2,11 +2,23 @@
 name: James Kelly
 gender: male
 description:
-image: /uploads/15940838-570552573133311-5582294678904546799-n.jpg
+image: /uploads/12510344-439830672872169-3490816273352971990-n.jpg
 images:
-  - image: /uploads/15940838-570552573133311-5582294678904546799-n.jpg
-  - image: /uploads/13015409-472481612940408-5264254297219652246-n.jpg
-  - image: /uploads/13010911-472481599607076-3850365404689389982-n.jpg
-  - image: /uploads/13015146-472481656273737-4949738564476946717-n.jpg
+  - image: /uploads/12510265-439830649538838-5301285012264671049-n.jpg
+  - image: /uploads/12510344-439830672872169-3490816273352971990-n.jpg
+  - image: /uploads/1664-439830699538833-1909679709320093912-n-1.jpg
   - image:
 ---
+
+
+Heres James Kelly after his 12 week program at Primal fitness.
+
+Heres just a few of the benefits James achieved in the 12 weeks:
+
+-"Moobs" to pecs.
+<br>-Soft midsection to thick abs.
+<br>-Smashing his old personal bests in bench,deadlift,squat and all bodyweight movements.
+<br>-Learnt how to deadlift correctly without out severe pain in his lower back for the first time.
+<br>-Learnt how to create a nutrition plan without being told "eat brocolli and chicken".
+
+We are delighted James has just booked another 12 week program with us as hes a great addition to the gym and a pure gentleme
