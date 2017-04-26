@@ -2,11 +2,13 @@
 name: Jack Murray
 gender: male
 description:
-image:
+image: /uploads/collage-2017-04-12-22-21-32.jpg
 images:
-  - image: /uploads/10606235-437458276442742-2392920057349904356-n.jpg
-  - image:
-  - image:
+  - image: /uploads/collage-2017-04-12-22-21-32.jpg
+  - image: /uploads/collage-2017-04-12-22-19-43.jpg
+  - image: /uploads/collage-2017-04-12-22-26-06.jpg
   - image:
   - image:
 ---
+
+
