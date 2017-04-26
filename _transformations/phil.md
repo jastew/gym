@@ -2,11 +2,22 @@
 name: Phil
 gender: male
 description:
-image: /uploads/15940838-570552573133311-5582294678904546799-n.jpg
+image:
 images:
-  - image: /uploads/15940838-570552573133311-5582294678904546799-n.jpg
-  - image: /uploads/13015409-472481612940408-5264254297219652246-n.jpg
-  - image: /uploads/13010911-472481599607076-3850365404689389982-n.jpg
-  - image: /uploads/13015146-472481656273737-4949738564476946717-n.jpg
+  - image: /uploads/1393836-377193545802549-5526841291642465421-n.jpg
+  - image: /uploads/10153876-377193525802551-842950357547380113-n.jpg
+  - image:
+  - image:
   - image:
 ---
+
+
+Here is the progress photos from Philips 12 week Program and the results speak for themselves.
+
+Phil went from a 150kg deadlift to 210kg,80kg bench press to 120kg and pushing 350kg on the prowler (A gym record)
+
+Not only that Phil has noticed a MASSIVE improvement in his posture compared to when he first started.
+
+I suppose he lost a bit of fat too. . .😂
+
+Well done Phil great job&nbsp;
