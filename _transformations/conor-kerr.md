@@ -2,7 +2,7 @@
 name: Conor Kerr
 gender: male
 description:
-image:
+image: /uploads/10981360-338200629701841-8103513799527165739-n.jpg
 images:
   - image: /uploads/10996061-338199866368584-1079977440422879185-n.jpg
   - image: /uploads/156055-338200646368506-9036975898017831857-n.jpg
