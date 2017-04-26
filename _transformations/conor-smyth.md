@@ -2,7 +2,7 @@
 name: Conor Smyth
 gender: male
 description:
-image:
+image: /uploads/15895380-570552593133309-308990011616077740-n.jpg
 images:
   - image: /uploads/11046227-429569240564979-1273442091221890506-n.jpg
   - image: /uploads/12308354-429569277231642-6562048910479426278-n.jpg
