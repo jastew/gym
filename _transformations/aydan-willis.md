@@ -2,11 +2,10 @@
 name: Aydan Willis
 gender: male
 description:
-image:
+image: /uploads/10882201-317003545154883-5252328419545572799-n.jpg
 images:
   - image: /uploads/10881611-317003481821556-3045045702915863444-n.jpg
-  - image:
-  - image:
+  - image: /uploads/10882201-317003545154883-5252328419545572799-n.jpg
   - image:
   - image:
 ---
