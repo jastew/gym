@@ -2,7 +2,7 @@
 name: Phil
 gender: male
 description:
-image:
+image: /uploads/1393836-377193545802549-5526841291642465421-n.jpg
 images:
   - image: /uploads/1393836-377193545802549-5526841291642465421-n.jpg
   - image: /uploads/10153876-377193525802551-842950357547380113-n.jpg
