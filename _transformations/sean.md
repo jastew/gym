@@ -2,7 +2,7 @@
 name: Sean
 gender: male
 description:
-image:
+image: /uploads/1959955-319766231545281-4852457718003811384-n.jpg
 images:
   - image: /uploads/1959955-319766231545281-4852457718003811384-n.jpg
   - image: /uploads/1507595-319766318211939-8922122319902589582-n.jpg
