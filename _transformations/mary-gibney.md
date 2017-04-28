@@ -2,13 +2,11 @@
 name: Mary Gibney
 gender: male
 description:
-image:
+image: /uploads/17191224-595045677350667-4862524086739122025-n-1.jpg
 images:
   - image: /uploads/17191224-595045677350667-4862524086739122025-n.jpg
   - image: /uploads/11146238-356280537893850-2416166550895823870-n.jpg
   - image: /uploads/10987350-356280567893847-2822304305664704937-n.jpg
-  - image:
-  - image:
 ---
 
 
