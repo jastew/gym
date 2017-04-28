@@ -1,5 +1,5 @@
 ---
-name: eo
+name: Eoghan
 gender: male
 description:
 image: /uploads/15111041-545794182275817-9136100166311829208-o.jpg
