@@ -1,8 +1,7 @@
 ---
-name: John Doe
-gender:
-  - male
-description: John came in looking to gain mass and get stronger which he did in only x weeks.
+name: Danny Martin
+gender: male
+description:
 image: /uploads/john-1.jpg
 images:
   - image: /uploads/john-1.jpg
