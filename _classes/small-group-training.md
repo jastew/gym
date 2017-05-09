@@ -22,6 +22,14 @@ You can also expect to get better core strength and a tighter backside, as well 
 
 The Primal Fitness small groups is nothing like your local commercial gym , the cheers are louder, smiles are bigger and expectations are higher. That’s why you’ll be able to do a little more, move a little faster and stick with it a lot longer.
 
+&nbsp;
+
+![](/uploads/versions/17880171-610386632483238-9130232070970429877-o---x----716-403x---.jpg)
+
+&nbsp;
+
+&nbsp;
+
 ## **I HAVE A LO****W LEVEL OF FITNESS, WILL I BE ABLE?**
 
 Our programming is scalable ,meaning we adapt the programme to suit your level of fitness and ability. A scaled workout simply means “Adjusting movements to account for an individuals”. It doesn’t matter if your 8 or 80 , there is a way to do every workout in a safe yet challenging way.
@@ -29,6 +37,8 @@ Our programming is scalable ,meaning we adapt the programme to suit your level o
 ## &nbsp;
 
 ![](/uploads/versions/17353153-597254370463131-5171979777414179871-n---x----960-720x---.jpg)
+
+## &nbsp;
 
 ## **I AM A FEMALE WHO WANTS TO START SMALL GROUP BUT DOESN’T FEEL COMFORTABLE TRAINING WITH MEN?!**
 
@@ -53,4 +63,4 @@ Primal girls are powerful, passionate, vibrant, goal achieving, excellence pursu
 
 ### &nbsp;
 
-###
+## &nbsp;
