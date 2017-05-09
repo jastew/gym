@@ -1,11 +1,11 @@
 ---
 name: Bree
-gender:
-  - female
-description: Brees transformation from x to y
+gender: female
+description: Sneak peak at one of the girls in our small groups.
 image: /uploads/bree-1.jpg
 images:
   - image: /uploads/bree-1.jpg
+  - image:
 ---
 
 
