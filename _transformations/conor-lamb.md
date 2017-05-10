@@ -1,5 +1,5 @@
 ---
-name: Chops
+name: Garth Lamb
 gender: male
 description:
 image: /uploads/10426781-450833131771923-2109629316162081038-n.jpg
