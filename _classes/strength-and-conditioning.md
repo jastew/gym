@@ -14,6 +14,8 @@ index: 3
 
 &nbsp;
 
+&nbsp;
+
 ## ![](/uploads/versions/15578771-558231791032056-7425311277300561419-n---x----540-960x---.jpg)
 
 ## &nbsp;
@@ -30,7 +32,7 @@ index: 3
 
 &nbsp;
 
-### If you want to lose weight , gain &nbsp;lean muscle in a friendly environment then our S & C classes are for you. Each class is held in a small group format to motivate and inspire you to achieve your fitness potential .
+### If you want to lose weight , gain lean muscle in a friendly environment then our S & C classes are for you. Each class is held in a small group format to motivate and inspire you to achieve your fitness potential .
 
 &nbsp;
 
