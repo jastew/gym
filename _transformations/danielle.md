@@ -7,6 +7,7 @@ images:
   - image: /uploads/daniell-1.jpg
   - image: /uploads/danielle-2.jpg
   - image: /uploads/danielle-3.jpg
+  - image: /uploads/18199163-620712274784007-274587113314432645-n.jpg
 ---
 
 
