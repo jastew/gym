@@ -55,6 +55,10 @@ defaults:
       type: classes
     values:
       layout: class
+      
+sass:
+    sass_dir: _scss
+    style: compressed
 
 # Build settings
 markdown: kramdown
