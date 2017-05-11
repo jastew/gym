@@ -22,15 +22,9 @@ banner_image:
       </div>
     </form>
 
-    <ul>
-        {% for item in page.stories %}
-            {% assign transformation = site.transformations | where:"slug", item.transformation | first %}
-            <li>{{ item.transformation | inspect }} {{ transformation.name }}</li>
-        {% endfor %}
-    </ul>
-
     <div class="row transformations__items"><!--
-      {% for transformation in site.transformations reversed %}
+      {% for item in page.stories %}
+      {% assign transformation = site.transformations | where:"slug", item.transformation | first %}
     --><div class="col-xs-6 col-md-4 transformations__item js-transformations-item" data-gender="{{ transformation.gender }}">
 
           <div class="article">
