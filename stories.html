@@ -24,8 +24,8 @@ banner_image:
 
     <ul>
         {% for item in page.stories %}
-            {% assign transformation = site.transformations | where:"slug", item.transformation[0] | first %}
-            <li>{{ item | inspect }} {{ transformation.name }}</li>
+            {% assign transformation = site.transformations | where:"slug", item.transformation | first %}
+            <li>{{ item.transformation | inspect }} {{ transformation.name }}</li>
         {% endfor %}
     </ul>
 
