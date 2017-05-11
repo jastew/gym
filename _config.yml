@@ -2,12 +2,6 @@ title: Primal Fitness Drogheda
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.primalfitnessdrogheda.com"
 logo: /assets/img/logo.png
-location: Greenhills Industrial Village, Greenhills, Drogheda, Co.Louth, Ireland
-phone: 086 190 4801
-email: primalfitness101@gmail.com
-facebook: https://www.facebook.com/Primalfitnessdrogheda
-youtube: https://www.youtube.com/channel/UCzeWN3V8ECuDGAJlNHG5HAg
-instagram: https://www.instagram.com/primalfitnessdrogheda/
 
 collections:
   classes:
