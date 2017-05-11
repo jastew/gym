@@ -1,5 +1,9 @@
 - menu_items:
-    - label: "Home"
-      link: "/"
-    - label: "About Us"
-      link: "/about"
+    - label: Home
+      link: /
+    - label: About Us
+      link: /about
+    - label: Classes
+      link: /classes
+    - label: Stories
+      link: /stories
