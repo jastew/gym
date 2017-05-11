@@ -1,4 +1,4 @@
-- menu_items:
+menu_items:
     - label: Home
       link: /
     - label: About Us
