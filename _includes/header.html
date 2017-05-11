@@ -15,11 +15,9 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="{{ site.baseurl }}/">Home</a></li>
-          <li><a href="{{ site.baseurl }}/about/">About Us</a></li>
-          <li><a href="{{ site.baseurl }}/classes/">Classes</a></li>
-          <li><a href="{{ site.baseurl }}/stories/">Stories</a></li>
-          <!--<li><a href="{{ site.baseurl }}/blog/">Blog</a></li>-->
+          {% for item in site.data.settings.menu_items %}
+            <li><a href="{{ site.baseurl }}{{ item.link }}">{{ item.label }}</a></li>
+          {% endfor %}
           <li><a href="#contact" class="nav_highlight js-nav-contact" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">Contact</a></li>
           <li class="navbar-social visible-xs">
             <a href="{{ site.facebook }}" target="_blank"><i class="fa fa-facebook"></i></a>
