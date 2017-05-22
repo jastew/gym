@@ -42,7 +42,7 @@ We welcome you to stop by, check us out, and hopefully work with us to achieve y
 
 ![](/uploads/versions/17103767-592141364307765-2548626954610019975-n---x----720-960x---.jpg)
 
-If you want to lose weight , gain lean muscle in a friendly environment then our S & C classes are for you. Each class is held in a small group format to motivate and inspire you to achieve your fitness potential.
+&nbsp;
 
 ![](/uploads/versions/17342905-598330113688890-2652536691749965103-n---x----720-960x---.jpg)
 
