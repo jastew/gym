@@ -62,21 +62,32 @@ Primal girls are powerful, passionate, vibrant, goal achieving, excellence pursu
 * A Progressive group programme that is changed every 6 weeks to keep the body constantly adapting (changing).
 * Regular goal setting and adjustments to keep the workouts fun and create clarity.
 * Access to our Private Members only Facebook page for 24/7 support , healthy recipes and practical tips .
+* &nbsp;
 
-### Prices
+## ***SMALL GROUP PRICES***
+
+&nbsp;
+
+**TWO PEOPLE**
 
 3 PT +&nbsp;unlimited strength and conditioning classes = 240 euro per month (per person)
 
 2 PT +&nbsp;unlimited strength and conditioning classes = 160 euro per month (per person)
 
+&nbsp;
+
+**THREE PEOPLE**
+
 3 PT +&nbsp;unlimited strength and conditioning classes = &nbsp; euro per month (per person)
 
 2 PT +&nbsp;unlimited strength and conditioning classes = &nbsp;euro per month (per person)
+
+&nbsp;
+
+**FOUR OR MORE PEOPLE**
 
 3 PT +&nbsp;unlimited strength and conditioning classes = &nbsp;euro per month (per person)
 
 2 PT +&nbsp;unlimited strength and conditioning classes = &nbsp;euro per month (per person)
 
-3 PT +&nbsp;unlimited strength and conditioning classes = &nbsp; euro per month (per person)
-
-2 PT +&nbsp;unlimited strength and conditioning classes = &nbsp;euro per month (per person)
+&nbsp;
