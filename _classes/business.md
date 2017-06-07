@@ -6,8 +6,28 @@ index: 4
 ---
 
 
-At Primal Fitness, we believe real fitness is about more than getting on a treadmill and watching TV—it’s about strengthening and conditioning your body and mind so you can go out in the world and be the best version of yourself.
+At Primal Fitness, we believe real fitness is about more than getting on a treadmill and watching TV—it’s about strengthening and conditioning your body and mind so you can go out in the world/workplace and be the best version of yourself.
 
 Employees with poor health can cost a company a lot more than healthy employees do. In fact, many companies spend half of their corporate profits, or more, on medical costs for employees in poor health. However, most companies with successful wellness programs enjoy less absenteeism, higher productivity, lower incidences of job injuries, less employee turnover and fewer medical claims.
 
 The quality of our health determines the quality of our lives and nothing is more important than that.
+
+### *Nutrition,Training and mindset advice*
+
+We use the most effective training and nutrition strategy's to get you to your goal in the most optimal way possible and our results are second to none .
+
+### *Discounts*
+
+Staff members can claim a 10% discount of any of our Personal training programes.
+
+### *Save your training slot*
+
+Pick a dedicated time slot for your staff to train and we will keep it reserved for you and your team.&nbsp;
+
+### *Online support*
+
+Every staff member will be accepted into our Private members facebook page. Here they will recieve online support, recipes and nutrition advice.
+
+&nbsp;
+
+**For futher information on our Healthy bussiness packages please contact Primalfitness101@gmail.com**
