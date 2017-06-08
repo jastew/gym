@@ -16,7 +16,19 @@ index: 2
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 Small Group Personal Training is a community of like minded people chasing there strength and fitness goals together. Each training session is limited to six trainees per coach to ensure that everybody gets the attention they need. We warm up together, Sweat together and improve our lives together. Community is the heart of Primal Fitness, its what helps you push through those last few reps and what keeps you craving and coming back for more. The training programme is a scalable, progressive system that is changed every 6 weeks to keep the body guessing.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -48,9 +60,23 @@ The Primal Fitness small groups is nothing like your local commercial gym, the c
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ![](/uploads/versions/17880171-610386632483238-9130232070970429877-o---x----716-403x---.jpg)
 
 ## &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -58,9 +84,17 @@ The Primal Fitness small groups is nothing like your local commercial gym, the c
 
 &nbsp;
 
+&nbsp;
+
 Our programming is scalable, meaning we adapt the programme to suit your level of fitness and ability. A scaled workout simply means “Adjusting movements to account for an individuals”. It doesn’t matter if your 8 or 80 , there is a way to do every workout in a safe yet challenging way.
 
 ## &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ![](/uploads/versions/17353153-597254370463131-5171979777414179871-n---x----960-720x---.jpg)
 
@@ -68,7 +102,17 @@ Our programming is scalable, meaning we adapt the programme to suit your level o
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ## **I AM A FEMALE WHO WANTS TO START SMALL GROUP BUT DOESN’T FEEL COMFORTABLE TRAINING AROUND MEN?!**
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -86,6 +130,12 @@ Primal girls are powerful, **passionate, vibrant, goal achieving, excellence pur
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 #### ***Here is what our Semi Private PT packages include:***
 
 * A tailored nutrition strategy that corresponds with your goals and lifestyle.
@@ -94,6 +144,10 @@ Primal girls are powerful, **passionate, vibrant, goal achieving, excellence pur
 * A Progressive group programme that is changed every 6 weeks to keep the body constantly adapting (changing).
 * Regular goal setting and adjustments to keep the workouts fun and create clarity.
 * Access to our Private Members only Facebook page for 24/7 support , healthy recipes and practical tips .
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
