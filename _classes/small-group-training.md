@@ -34,11 +34,19 @@ Small Group Personal Training is a community of like minded people chasing there
 
 ## **WHY SMALL GROUP PERSONAL TRAINING?**
 
-You can expect to get in the best shape of your life . Melt away 10 + unwanted pounds, get out of your big commercial gym for a not so traditional workout, and cut personal training fees by ¾. and still reap the benefits.In fact most of the [transformation photos](/stories/) displayed on our website are a result of our small group personal training programme.
+&nbsp;
+
+&nbsp;
+
+You can expect to get in the best shape of your life. Melt away 10 + unwanted pounds, get out of your big commercial gym for a not so traditional workout, and cut personal training fees by ¾. while still reaping the benefits. In fact most of the [transformation photos](/stories/) displayed on our website are a result of our small group personal training programme.
 
 You can also expect to get better core strength and a tighter backside, as well as functional strength and agility, that apply to sports and everyday life.
 
-The Primal Fitness small groups is nothing like your local commercial gym , the cheers are louder, smiles are bigger and expectations are higher. That’s why you’ll be able to do a little more, move a little faster and stick with it a lot longer.
+The Primal Fitness small groups is nothing like your local commercial gym, the cheers are louder, smiles are bigger and expectations are higher. That’s why you’ll be able to do a little more, move a little faster and stick with it a lot longer.
+
+&nbsp;
+
+&nbsp;
 
 ![](/uploads/versions/17880171-610386632483238-9130232070970429877-o---x----716-403x---.jpg)
 
