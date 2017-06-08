@@ -50,9 +50,15 @@ The Primal Fitness small groups is nothing like your local commercial gym, the c
 
 ![](/uploads/versions/17880171-610386632483238-9130232070970429877-o---x----716-403x---.jpg)
 
+## &nbsp;
+
+&nbsp;
+
 ## **I HAVE A LO****W LEVEL OF FITNESS, WILL I BE ABLE?**
 
-Our programming is scalable ,meaning we adapt the programme to suit your level of fitness and ability. A scaled workout simply means “Adjusting movements to account for an individuals”. It doesn’t matter if your 8 or 80 , there is a way to do every workout in a safe yet challenging way.
+&nbsp;
+
+Our programming is scalable, meaning we adapt the programme to suit your level of fitness and ability. A scaled workout simply means “Adjusting movements to account for an individuals”. It doesn’t matter if your 8 or 80 , there is a way to do every workout in a safe yet challenging way.
 
 ## &nbsp;
 
@@ -60,13 +66,23 @@ Our programming is scalable ,meaning we adapt the programme to suit your level o
 
 ## &nbsp;
 
-## **I AM A FEMALE WHO WANTS TO START SMALL GROUP BUT DOESN’T FEEL COMFORTABLE TRAINING WITH MEN?!**
+&nbsp;
 
-No problem , we have a number of “Woman only small group” that you can apply to join or you can start your own group with your friends/family.
+## **I AM A FEMALE WHO WANTS TO START SMALL GROUP BUT DOESN’T FEEL COMFORTABLE TRAINING AROUND MEN?!**
 
-Although the woman only programme has the exact same training philosophy and work ethic as the mens , the programme design differ a bit. In the woman’s programme there is alot more empathise on Glutes ,hamstrings and building a stronger core (something we find alot woman starting out lack)
+&nbsp;
 
-Primal girls are powerful, passionate, vibrant, goal achieving, excellence pursuing bad ass chicks ! If your looking to get in the best shape of your life get in touch today!
+No problem, we have a number of “Woman only small group” that you can apply to join or you can start your own group with your friends/family.
+
+Although the woman only programme has the exact same training philosophy and work ethic as the mens, the programme design differ a bit. In the woman’s programme there is alot more empathise on Glutes, hamstrings and building a stronger core (something we find alot woman starting out lack)
+
+Primal girls are powerful, **passionate, vibrant, goal achieving, excellence pursuing bad ass chicks !** If your looking to get in the best shape of your life get in touch today!
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -78,9 +94,16 @@ Primal girls are powerful, passionate, vibrant, goal achieving, excellence pursu
 * A Progressive group programme that is changed every 6 weeks to keep the body constantly adapting (changing).
 * Regular goal setting and adjustments to keep the workouts fun and create clarity.
 * Access to our Private Members only Facebook page for 24/7 support , healthy recipes and practical tips .
-* &nbsp;
 
-## ***SMALL GROUP PRICES***
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+## ***SMALL GROUP PROGRAMME PRICES***
 
 &nbsp;
 
@@ -100,7 +123,7 @@ Primal girls are powerful, passionate, vibrant, goal achieving, excellence pursu
 
 &nbsp;
 
-**FOUR OR MORE PEOPLE**
+**FOUR PEOPLE OR MORE**
 
 3 PT + unlimited strength and conditioning classes = &nbsp;euro per month (per person)
 
