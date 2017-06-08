@@ -14,7 +14,15 @@ index: 2
 
 ## **WHAT IS SMALL GROUP PERSONAL TRAINING?**
 
-Small Group Personal Training is a community of like minded people chasing there strength and fitness goals together. Each training session is limited to six trainees per coach to ensure that everybody gets the attention they need. We warm up together , Sweat together and improve our lives together.Community is the heart of Primal Fitness , its what helps you push through those last few reps and what keeps you craving and coming back for more. The training programme is a scalable , progressive system that is changed every 6 weeks to keep the body guessing .
+&nbsp;
+
+Small Group Personal Training is a community of like minded people chasing there strength and fitness goals together. Each training session is limited to six trainees per coach to ensure that everybody gets the attention they need. We warm up together, Sweat together and improve our lives together. Community is the heart of Primal Fitness, its what helps you push through those last few reps and what keeps you craving and coming back for more. The training programme is a scalable, progressive system that is changed every 6 weeks to keep the body guessing.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ![](/uploads/versions/16388292-580657392122829-8971833823735004048-n---x----750-723x---.jpg)
 
@@ -70,24 +78,24 @@ Primal girls are powerful, passionate, vibrant, goal achieving, excellence pursu
 
 **TWO PEOPLE**
 
-3 PT +&nbsp;unlimited strength and conditioning classes = 240 euro per month (per person)
+3 PT + unlimited strength and conditioning classes = 240 euro per month (per person)
 
-2 PT +&nbsp;unlimited strength and conditioning classes = 160 euro per month (per person)
+2 PT + unlimited strength and conditioning classes = 160 euro per month (per person)
 
 &nbsp;
 
 **THREE PEOPLE**
 
-3 PT +&nbsp;unlimited strength and conditioning classes = &nbsp; euro per month (per person)
+3 PT + unlimited strength and conditioning classes = &nbsp; euro per month (per person)
 
-2 PT +&nbsp;unlimited strength and conditioning classes = &nbsp;euro per month (per person)
+2 PT + unlimited strength and conditioning classes = &nbsp;euro per month (per person)
 
 &nbsp;
 
 **FOUR OR MORE PEOPLE**
 
-3 PT +&nbsp;unlimited strength and conditioning classes = &nbsp;euro per month (per person)
+3 PT + unlimited strength and conditioning classes = &nbsp;euro per month (per person)
 
-2 PT +&nbsp;unlimited strength and conditioning classes = &nbsp;euro per month (per person)
+2 PT + unlimited strength and conditioning classes = &nbsp;euro per month (per person)
 
 &nbsp;
