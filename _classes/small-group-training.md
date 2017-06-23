@@ -32,8 +32,6 @@ Small Group Personal Training is a community of like minded people chasing there
 
 ## &nbsp;
 
-## &nbsp;
-
 ## **WHY SMALL GROUP PERSONAL TRAINING?**
 
 &nbsp;
@@ -96,6 +94,8 @@ Primal girls are powerful, **passionate, vibrant, goal achieving, excellence pur
 
 &nbsp;
 
+&nbsp;
+
 #### ***Here is what our Semi Private PT packages include:***
 
 &nbsp;
@@ -106,6 +106,8 @@ Primal girls are powerful, **passionate, vibrant, goal achieving, excellence pur
 * A Progressive group programme that is changed every 6 weeks to keep the body constantly adapting (changing).
 * Regular goal setting and adjustments to keep the workouts fun and create clarity.
 * Access to our Private Members only Facebook page for 24/7 support , healthy recipes and practical tips .
+
+&nbsp;
 
 &nbsp;
 
