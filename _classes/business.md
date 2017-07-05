@@ -6,6 +6,10 @@ index: 4
 ---
 
 
+![](/uploads/versions/groupfitness-baender1-1024x682---x----1024-682x---.jpg)
+
+&nbsp;
+
 At Primal Fitness, we believe real fitness is about more than getting on a treadmill and watching TV—it’s about strengthening and conditioning your body and mind so you can go out in the world/workplace and be the best version of yourself.
 
 Employees with poor health can cost a company a lot more than healthy employees do. In fact, many companies spend half of their corporate profits, or more, on medical costs for employees in poor health. However, most companies with successful wellness programs enjoy less absenteeism, higher productivity, lower incidences of job injuries, less employee turnover and fewer medical claims.
