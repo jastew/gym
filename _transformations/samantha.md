@@ -1,12 +1,14 @@
 ---
 name: Samantha
-gender: male
-description: 'Al went from scrawny to BRAWNY in just 12 week!'
-image: /uploads/10606235-437458276442742-2392920057349904356-n.jpg
+gender: female
+description:
+image: /uploads/18620359-628760927312475-3626769328174970796-n.jpg
 images:
-  - image: /uploads/10606235-437458276442742-2392920057349904356-n.jpg
-  - image:
-  - image:
-  - image:
+  - image: /uploads/18620359-628760927312475-3626769328174970796-n.jpg
+  - image: /uploads/18622654-628760930645808-411977307191184527-n.jpg
+  - image: /uploads/18664724-628760917312476-3114021621122723065-n.jpg
+  - image: /uploads/18700010-628760933979141-6282702264499781831-n.jpg
   - image:
 ---
+
+
