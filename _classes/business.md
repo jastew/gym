@@ -16,21 +16,37 @@ Employees with poor health can cost a company a lot more than healthy employees 
 
 The quality of our health determines the quality of our lives and nothing is more important than that.
 
+### &nbsp;
+
 ### *Nutrition,Training and mindset advice*
 
 We use the most effective training and nutrition strategy's to get you to your goal in the most optimal way possible and our results are second to none .
+
+### &nbsp;
+
+&nbsp;
 
 ### *Discounts*
 
 Staff members can claim a 10% discount of any of our Personal training programes.
 
+### &nbsp;
+
+&nbsp;
+
 ### *Save your training slot*
 
 Pick a dedicated time slot for your staff to train and we will keep it reserved for you and your team.&nbsp;
 
+### &nbsp;
+
+&nbsp;
+
 ### *Online support*
 
 Every staff member will be accepted into our Private members facebook page. Here they will recieve online support, recipes and nutrition advice.
+
+&nbsp;
 
 &nbsp;
 
