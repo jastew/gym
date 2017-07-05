@@ -10,13 +10,19 @@ index: 4
 
 &nbsp;
 
-At Primal Fitness, we believe real fitness is about more than getting on a treadmill and watching TV—it’s about strengthening and conditioning your body and mind so you can go out in the world/workplace and be the best version of yourself.
+At Primal Fitness, we believe real fitness is about more than getting on a treadmill and watching TV in a big faceless gym —it’s about strengthening and conditioning your body and mind so you can go out in the world/workplace and be the best version of yourself.
 
 Employees with poor health can cost a company a lot more than healthy employees do. In fact, many companies spend half of their corporate profits, or more, on medical costs for employees in poor health. However, most companies with successful wellness programs enjoy less absenteeism, higher productivity, lower incidences of job injuries, less employee turnover and fewer medical claims.
 
 The quality of our health determines the quality of our lives and nothing is more important than that.
 
+It is this reason we have created the Healthy Business Programme, this programme offers local businesses the chance to give there employees top class group training at Primal Fitness at a discounted rate.
+
+We are local lads, with local small business helping other local businesses ! :)
+
 ### &nbsp;
+
+&nbsp;
 
 ### *Nutrition,Training and mindset advice*
 
