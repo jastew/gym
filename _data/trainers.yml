@@ -1,9 +1,9 @@
 - name: Ben Cunningham
-  description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores beatae natus velit.'
+  description:
   image: /uploads/19029512-635938206594747-3202868902361079227-n.jpg
 - name: Stephen Walsh
-  description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores beatae natus velit.'
-  image: 'http://placehold.it/400x400&text=trainer'
-- name: Anna
-  description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores beatae natus velit.'
-  image: 'http://placehold.it/400x400&text=trainer'
+  description:
+  image: /uploads/13494842-493056160882953-7123349173500502491-n.jpg
+- name: Anna Stafford
+  description:
+  image: /uploads/18010902-613449818843586-4507053816122035251-n.jpg
