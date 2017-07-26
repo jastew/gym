@@ -2,7 +2,7 @@
 name: Danielle
 gender: female
 description: What does dedication look like?
-image: /uploads/daniell-1.jpg
+image: /uploads/16508016-581982228657012-6859009684078014175-n.jpg
 images:
   - image: /uploads/daniell-1.jpg
   - image: /uploads/danielle-2.jpg
