@@ -51,6 +51,7 @@ banner_image:
     <div class="row transformations__items"><!--
       {% for item in page.stories %}
       {% assign transformation = site.transformations | where:"slug", item.transformation | first %}
+      {% if transformation %}
     --><div class="col-xs-6 col-md-4 transformations__item js-transformations-item" data-gender="{{ transformation.gender }}">
 
           <div class="article">
@@ -67,6 +68,7 @@ banner_image:
           </div>
 
         </div><!--
+        {% endif %}
       {% endfor %}
     --></div>
 
