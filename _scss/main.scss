@@ -21,5 +21,9 @@ body {
 }
 .col-inline-block {
     float: none !important;
-    display: inline-block !important;
+    display: inline-block;
+    
+    @media screen and (max-width: 767px) {
+        display: block;
+    }
 }
