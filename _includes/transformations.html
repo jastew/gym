@@ -11,11 +11,11 @@
   </div>
 
   <div class="container">
-    <div class="row">
+    <div class="row"><!--
       {% for item in page.stories %}
         {% assign transformation = site.transformations | where: "slug", item.transformation | first %}
         {% if transformation.name && transformation.image %}
-            <div class="col-sm-4">
+            --><div class="col-sm-4 col-inline-block">
     
               <div class="article">
                 <div class="article__head">
@@ -30,10 +30,10 @@
                 </div>
               </div>
     
-            </div>
+            </div><!--
         {% endif %}
       {% endfor %}
-    </div>
+    --></div>
   </div>
 
 </div>
