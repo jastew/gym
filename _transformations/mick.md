@@ -1,7 +1,7 @@
 ---
 name: Mick
 gender: male
-description: 'Al went from scrawny to BRAWNY in just 12 week!'
+description:
 image: /uploads/12670940-456227551232481-3167704265987736886-n.jpg
 images:
   - image: /uploads/12670940-456227551232481-3167704265987736886-n.jpg
