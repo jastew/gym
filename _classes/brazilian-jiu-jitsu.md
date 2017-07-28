@@ -22,9 +22,27 @@ Jiu Jitsu emphasizes taking an opponent to the ground and utilizing ground fight
 
 ### **Our BJJ Beginners programme**
 
+&nbsp;
+
+&nbsp;
+
 The class includes a dynamic warm up, movements drills as well as instruction and practice of technique. During this class, you will learn the fundamental positions, submissions and movements that make Jiu Jitsu work.&nbsp;
 
-You can take the class at whatever pace you feel comfortable.There is no heavy sparring, no bullying and we have a NO EGOS policy !
+&nbsp;
+
+&nbsp;
+
+You can take the class at whatever pace you feel comfortable.There is no heavy sparring, no bullying and we have a NO EGOS policy ! &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Learn the art that has dominated the UFC since it’s foundation in 1993
+
+&nbsp;
+
+&nbsp;
 
 ### ![](/uploads/versions/20170727-1731520---x----1136-639x---.jpg)
 
@@ -46,12 +64,20 @@ You can take the class at whatever pace you feel comfortable.There is no heavy s
 
 &nbsp;
 
+&nbsp;
+
 ### **Teen Programme**
 
 &nbsp;
 
-Self-Defence
+&nbsp;
 
-Learn the art that has dominated the UFC since it’s foundation in 1993
+Our Teenager’s Program is perfect for teens that wants to start training in BJJ, learn self defense and build there confedence.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ![](/uploads/versions/19055184-635938069928094-3867460336403018773-o---x----720-477x---.jpg)
