@@ -10,13 +10,31 @@ index: 1
 
 ### &nbsp;
 
+&nbsp;
+
 ### **What is Brazilian Jiu Jitsu?**
+
+&nbsp;
+
+&nbsp;
 
 Brazilian Jiu Jitsu is a martial art, combat sport and a self-defense system created by the legendary Gracie family.
 
+&nbsp;
+
 Jiu Jitsu emphasizes taking an opponent to the ground and utilizing ground fighting techniques and submission holds involving joint-locks and chokeholds. The premise is that most of the advantage of a larger, stronger opponent comes from superior reach and more powerful strikes, both of which are somewhat negated when grappling on the ground.
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ![](/uploads/versions/13503065-1545179569123050-2793428467608878279-o---x----1176-540x---.jpg)&nbsp;&nbsp;
+
+### &nbsp;
+
+&nbsp;
 
 ### **Our BJJ Beginners programme**
 
@@ -26,4 +44,26 @@ The class includes a dynamic warm up, movements drills as well as instruction an
 
 &nbsp;
 
-You can take the class at whatever pace you feel comfortable.There is no heavy sparring, no bullying and NO EGOS!
+You can take the class at whatever pace you feel comfortable.There is no heavy sparring, no bullying and we have a NO EGOS policy !
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+### ![](/uploads/versions/20170727-1731520---x----1136-639x---.jpg)
+
+### &nbsp;
+
+### &nbsp;
+
+### **Our Kids and Teens programmes**
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/versions/19055184-635938069928094-3867460336403018773-o---x----720-477x---.jpg)
+
+&nbsp;
