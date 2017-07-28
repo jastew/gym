@@ -22,21 +22,9 @@ Jiu Jitsu emphasizes taking an opponent to the ground and utilizing ground fight
 
 ### **Our BJJ Beginners programme**
 
-&nbsp;
-
-&nbsp;
-
 The class includes a dynamic warm up, movements drills as well as instruction and practice of technique. During this class, you will learn the fundamental positions, submissions and movements that make Jiu Jitsu work.&nbsp;
 
-&nbsp;
-
-&nbsp;
-
 You can take the class at whatever pace you feel comfortable.There is no heavy sparring, no bullying and we have a NO EGOS policy ! &nbsp;
-
-&nbsp;
-
-&nbsp;
 
 Learn the art that has dominated the UFC since it’s foundation in 1993
 
@@ -58,13 +46,9 @@ Learn the art that has dominated the UFC since it’s foundation in 1993
 
 *Did you know that Martial Arts is 10 times better than team sports in developing a childs self-esteem and confidence? And a confident kid is unstoppable!*
 
-&nbsp;
+### &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+### &nbsp;
 
 ### **Teen Programme**
 
@@ -72,7 +56,13 @@ Learn the art that has dominated the UFC since it’s foundation in 1993
 
 &nbsp;
 
-Our Teenager’s Program is perfect for teens that wants to start training in BJJ, learn self defense and build there confedence.
+Our Teenager’s Program is perfect for teens that wants to start training in BJJ, learn self defense and build there confidence.
+
+&nbsp;
+
+Our class is open to boys and girls aged from 12-17. Students can train for fun or with the intention of competing while learning a martial art that actually works in a real life situation.will develop confidence, improve athletic abilities and blow off steam from schoolwork or exam study.
+
+&nbsp;
 
 &nbsp;
 
