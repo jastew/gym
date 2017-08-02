@@ -16,6 +16,8 @@ index: 1
 
 ### **What is Brazilian Jiu Jitsu?**
 
+&nbsp;
+
 Brazilian Jiu Jitsu is a martial art, combat sport and a self-defense system created by the legendary Gracie family.
 
 Jiu Jitsu emphasizes taking an opponent to the ground and utilizing ground fighting techniques and submission holds involving joint-locks and chokeholds. The premise is that most of the advantage of a larger, stronger opponent comes from superior reach and more powerful strikes, both of which are somewhat negated when grappling on the ground.
@@ -40,9 +42,15 @@ Jiu Jitsu emphasizes taking an opponent to the ground and utilizing ground fight
 
 &nbsp;
 
+&nbsp;
+
 The class includes a dynamic warm up, movements drills as well as instruction and practice of technique. During this class, you will learn the fundamental positions, submissions and movements that make Jiu Jitsu work.&nbsp;
 
+&nbsp;
+
 You can take the class at whatever pace you feel comfortable. There is no heavy sparring, no bullying and we have a NO EGO policy ! &nbsp;
+
+&nbsp;
 
 Learn the art that has dominated the UFC since it’s foundation in 1993!
 
@@ -100,7 +108,7 @@ All classes are took by Ben Cunningham, a competitive blue belt who fights out o
 
 &nbsp;
 
-&nbsp;
+Ben travels a combination 6 - 8 hours a week to train, pays between 30-40 euro a week on tolls and passes about 20 jiu jitsu clubs to get to East Coast. The reason he makes this investment of time and money is so he can provide himself and his students with **the very best** knowlege of the martial art in the country.
 
 &nbsp;
 
