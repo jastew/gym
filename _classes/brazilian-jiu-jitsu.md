@@ -60,10 +60,20 @@ Learn the art that has dominated the UFC since it’s foundation in 1993!
 
 &nbsp;
 
+&nbsp;
+
 *Did you know that Martial Arts is 10 times better than team sports in developing a childs self-esteem and confidence? And a confident kid is unstoppable!*
 
-* Our kids classes take place on a Tuesday and Thursday at
+&nbsp;
+
+&nbsp;
+
+* Our kids classes take place on a Tuesday and Thursday at 4.30pm - 5.30pm.
 * The class is open to boys and girls that ages range between 5 years old- 11 years old
+
+&nbsp;
+
+&nbsp;
 
 First class free! :)
 
@@ -81,7 +91,11 @@ First class free! :)
 
 ### &nbsp;
 
+&nbsp;
+
 ### **Teenager’s Programme**
+
+&nbsp;
 
 &nbsp;
 
@@ -89,7 +103,11 @@ Our Teenager’s Program is perfect for teens that wants to start training in BJ
 
 &nbsp;
 
+&nbsp;
+
 Our class is open to boys and girls aged from 12-17. Students can train for fun or with the intention of competing (if they like) while learning a martial art that actually works in a real life situation. It will develop confidence, improve athletic abilities and blow off steam from schoolwork or exam study.
+
+&nbsp;
 
 &nbsp;
 
