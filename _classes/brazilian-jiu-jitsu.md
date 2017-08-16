@@ -28,11 +28,17 @@ Jiu Jitsu emphasizes taking an opponent to the ground and utilizing ground fight
 
 ### **Our BJJ Beginners programme**
 
+&nbsp;
+
 The class includes a dynamic warm up, movements drills as well as instruction and practice of technique. During this class, you will learn the fundamental positions, submissions and movements that make Jiu Jitsu work.&nbsp;
 
 You can take the class at whatever pace you feel comfortable. There is no heavy sparring, no bullying and we have a NO EGO policy ! &nbsp;
 
 Learn the art that has dominated the UFC since it’s foundation in 1993!
+
+&nbsp;
+
+&nbsp;
 
 ### ![](/uploads/versions/20170727-1731520---x----1136-639x---.jpg)
 
@@ -42,6 +48,8 @@ Learn the art that has dominated the UFC since it’s foundation in 1993!
 
 ### **Kids Programmes**
 
+&nbsp;
+
 *Did you know that Martial Arts is 10 times better than team sports in developing a childs self-esteem and confidence? And a confident kid is unstoppable!*
 
 * Our kids classes take place on a Tuesday and Thursday at
@@ -49,7 +57,11 @@ Learn the art that has dominated the UFC since it’s foundation in 1993!
 
 First class free! :)
 
+&nbsp;
+
 ### ![](/uploads/versions/19055184-635938069928094-3867460336403018773-o-1---x----720-477x---.jpg)
+
+### &nbsp;
 
 ### **Teenager’s Programme**
 
@@ -69,11 +81,15 @@ Our class is open to boys and girls aged from 12-17. Students can train for fun 
 
 &nbsp;
 
+&nbsp;
+
 All classes are took by Ben Cunningham, a competitive blue belt who fights out of East Coast East coast Tomorrow's battle is won in today's practice. Academy in south Dublin. Ben recieved his blue belt in 2014 of head instructor Darragh O Conaill who is both Irelands youngest and most decorated Black Belt.
 
 &nbsp;
 
 Ben travels a combination 6-8 hours a week to train, pays between 30-40 euro a week on tolls and passes 20 jiu jitsu clubs to get to East Coast jiu jitsu Academy. The reason he makes this investment of time and money is so he can provide himself and his students with **the very best** knowledge of the martial art in the country.
+
+&nbsp;
 
 &nbsp;
 
