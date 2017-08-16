@@ -20,9 +20,7 @@ Jiu Jitsu emphasises taking an opponent to the ground and utilising ground fight
 
 ![](/uploads/versions/13503065-1545179569123050-2793428467608878279-o---x----1176-540x---.jpg)&nbsp;&nbsp;
 
-### &nbsp;
-
-### &nbsp;
+&nbsp;
 
 ### &nbsp;
 
@@ -37,6 +35,10 @@ You can take the class at whatever pace you feel comfortable. There is no heavy 
 Learn the art that has dominated the UFC since it’s foundation in 1993!
 
 First week free ! :)
+
+&nbsp;
+
+&nbsp;
 
 ### ![](/uploads/versions/20170727-1731520---x----1136-639x---.jpg)
 
