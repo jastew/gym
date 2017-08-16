@@ -54,6 +54,8 @@ Learn the art that has dominated the UFC since it’s foundation in 1993!
 
 ### &nbsp;
 
+&nbsp;
+
 ### **Kids Programmes**
 
 &nbsp;
@@ -64,6 +66,8 @@ Learn the art that has dominated the UFC since it’s foundation in 1993!
 * The class is open to boys and girls that ages range between 5 years old- 11 years old
 
 First class free! :)
+
+&nbsp;
 
 &nbsp;
 
