@@ -40,6 +40,8 @@ First week free ! :)
 
 &nbsp;
 
+&nbsp;
+
 ### ![](/uploads/versions/20170727-1731520---x----1136-639x---.jpg)
 
 ### &nbsp;
@@ -79,13 +81,21 @@ First class free! :)
 
 ### &nbsp;
 
+&nbsp;
+
 ### **Teenager’s Programme**
+
+&nbsp;
 
 Our Teenager’s Program is perfect for teens that wants to start training in BJJ, learn self defense and build there confidence.
 
 Our class is open to boys and girls aged from 12-17. Students can train for fun or with the intention of competing (if they like) while learning a martial art that actually works in a real life situation. It will develop confidence, improve athletic abilities and blow off steam from schoolwork or exam study.
 
 First class free! :)
+
+&nbsp;
+
+&nbsp;
 
 ![](/uploads/versions/img-20170730-wa0004-1---x----359-639x---.jpg)
 
