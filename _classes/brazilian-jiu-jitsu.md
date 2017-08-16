@@ -14,9 +14,19 @@ index: 1
 
 ### **What is Brazilian Jiu Jitsu?**
 
+&nbsp;
+
+&nbsp;
+
 Brazilian Jiu Jitsu is a martial art, combat sport and a self-defense system created by the legendary Gracie family.
 
+&nbsp;
+
+&nbsp;
+
 Jiu Jitsu emphasizes taking an opponent to the ground and utilizing ground fighting techniques and submission holds involving joint-locks and chokeholds. The premise is that most of the advantage of a larger, stronger opponent comes from superior reach and more powerful strikes, both of which are somewhat negated when grappling on the ground.
+
+&nbsp;
 
 &nbsp;
 
