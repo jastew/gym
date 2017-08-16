@@ -16,11 +16,7 @@ index: 1
 
 &nbsp;
 
-&nbsp;
-
 Brazilian Jiu Jitsu is a martial art, combat sport and a self-defense system created by the legendary Gracie family.
-
-&nbsp;
 
 &nbsp;
 
