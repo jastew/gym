@@ -1,7 +1,7 @@
 ---
 name: Bree
 gender: female
-description: Sneak peak at one of the girls in our small groups.
+description:
 image: /uploads/17991257-615204278668140-5361291198567697479-n.jpg
 images:
   - image: /uploads/bree-1.jpg
