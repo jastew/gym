@@ -18,6 +18,10 @@ Brazilian Jiu Jitsu is a martial art, combat sport and a self-defense system cre
 
 Jiu Jitsu emphasizes taking an opponent to the ground and utilizing ground fighting techniques and submission holds involving joint-locks and chokeholds. The premise is that most of the advantage of a larger, stronger opponent comes from superior reach and more powerful strikes, both of which are somewhat negated when grappling on the ground.
 
+&nbsp;
+
+&nbsp;
+
 ![](/uploads/versions/13503065-1545179569123050-2793428467608878279-o---x----1176-540x---.jpg)&nbsp;&nbsp;
 
 ### &nbsp;
@@ -40,6 +44,10 @@ Learn the art that has dominated the UFC since it’s foundation in 1993!
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ### ![](/uploads/versions/20170727-1731520---x----1136-639x---.jpg)
 
 ### &nbsp;
@@ -56,6 +64,12 @@ Learn the art that has dominated the UFC since it’s foundation in 1993!
 * The class is open to boys and girls that ages range between 5 years old- 11 years old
 
 First class free! :)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -83,7 +97,7 @@ Our class is open to boys and girls aged from 12-17. Students can train for fun 
 
 &nbsp;
 
-All classes are took by Ben Cunningham, a competitive blue belt who fights out of East Coast East coast Tomorrow's battle is won in today's practice. Academy in south Dublin. Ben recieved his blue belt in 2014 of head instructor Darragh O Conaill who is both Irelands youngest and most decorated Black Belt.
+All classes are took by Ben Cunningham, a competitive blue belt who fights out of East Coast East coast Tomorrow’s battle is won in today’s practice. Academy in south Dublin. Ben recieved his blue belt in 2014 of head instructor Darragh O Conaill who is both Irelands youngest and most decorated Black Belt.
 
 &nbsp;
 
