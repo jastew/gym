@@ -1,6 +1,8 @@
 ---
 title: Semi Private Personal Training
-description: 'Benefit from Personal Training results at a fraction of the price , Our packages are between €30 and €40 per week.'
+description: >-
+  Benefit from Personal Training results at a fraction of the price , Our
+  packages are between €30 and €40 per week.
 image: /uploads/17353153-597254370463131-5171979777414179871-n.jpg
 index: 2
 ---
@@ -125,7 +127,7 @@ Primal girls are powerful, **passionate, vibrant, goal achieving, excellence pur
 
 3 PT sessions + unlimited strength and conditioning classes = **€335** per month including vat. (Per person)
 
-2 PT sessions + unlimited strength and conditioning classes = €224 per month including vat. (Per person)
+2 PT sessions + unlimited strength and conditioning classes = **€224** per month including vat. (Per person)
 
 &nbsp;
 
