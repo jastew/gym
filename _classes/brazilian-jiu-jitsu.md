@@ -34,7 +34,7 @@ Jiu Jitsu emphasises taking an opponent to the ground and utilising ground fight
 
 &nbsp;
 
-The programme is perfect for somebody who wants to start an **EFFECTIVE** martail art but doesn't want to go into a MMA club and get smashed.
+The programme is perfect for somebody who wants to start an **EFFECTIVE** martail art but doesn’t want to go into a MMA club and get smashed.
 
 The class includes a dynamic warm up, movements drills as well as instruction and practice of technique. During this class, you will learn the fundamental positions, submissions and movements that make Jiu Jitsu work.&nbsp;
 
@@ -121,7 +121,7 @@ First class free! :)
 
 &nbsp;
 
-All classes are took by Ben Cunningham, a competitive blue belt who fights out of East Coast East coast Tomorrow’s battle is won in today’s practice. Academy in south Dublin. Ben recieved his blue belt in 2014 of head instructor Darragh O Conaill who is both Irelands youngest and most decorated Black Belt.
+All classes are took by Ben Cunningham, a competitive blue belt who fights out of East Coast Academy in south Dublin. Ben recieved his blue belt in 2014 of head instructor Darragh O Conaill who is both Irelands youngest and most decorated Black Belt.
 
 &nbsp;
 
