@@ -121,14 +121,4 @@ First class free! :)
 
 &nbsp;
 
-All classes are took by Ben Cunningham, a competitive blue belt who fights out of East Coast Academy in south Dublin. Ben recieved his blue belt in 2014 of head instructor Darragh O Conaill who is both Irelands youngest and most decorated Black Belt.
-
-&nbsp;
-
-Ben travels a combination 6-8 hours a week to train, pays between 30-40 euro a week on tolls and passes 20 jiu jitsu clubs to get to East Coast jiu jitsu Academy. The reason he makes this investment of time and money is so he can provide himself and his students with **the very best** knowledge of the martial art in the country/Europe.
-
-&nbsp;
-
-&nbsp;
-
 ![](/uploads/versions/20776665-1976680389211360-4956305605765613403-o---x----720-480x---.jpg)![](/uploads/versions/35732380483-5556bac001-c---x----800-534x---.jpg)
