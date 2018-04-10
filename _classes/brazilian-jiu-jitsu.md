@@ -37,7 +37,7 @@ You can take the class at whatever pace you feel comfortable. There is no heavy 
 
 Learn the art that has dominated the UFC since it’s foundation in 1993!
 
-First week free ! :)
+Try a free week on us to see if you like it, what have you got to loss !? :)
 
 **PRICE: 70 euro a month for 6 classes a week**
 
@@ -85,15 +85,17 @@ Our class is open to boys and girls aged from 12-17. Students can train for fun 
 
 First class free! :)
 
+&nbsp;
+
 **PRICE: 55 euro a month for 6 classes a week**
 
 &nbsp;
 
 &nbsp;
 
-*Check out our facebook page for all the latest news on our club:*
+*Follow us on facebook for all the latest news, offers and team competition results.*
 
-[https://www.facebook.com/PrimalBJJIRE/?ref=py\_c](https://www.facebook.com/PrimalBJJIRE/?ref=py_c)
+&gt;&gt;&gt;&nbsp;[https://www.facebook.com/PrimalBJJIRE/?ref=py\_c](https://www.facebook.com/PrimalBJJIRE/?ref=py_c)&nbsp; &lt;&lt;&lt;
 
 &nbsp;
 
