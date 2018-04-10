@@ -37,7 +37,13 @@ You can take the class at whatever pace you feel comfortable. There is no heavy 
 
 Learn the art that has dominated the UFC since it’s foundation in 1993!
 
+The Primal BJJ classes are took by Coaches Ben Cunningham and Keith Kavanagh, two competitive purple belts.
+
+&nbsp;
+
 Try a free week on us to see if you like it, what have you got to loss !? :)
+
+&nbsp;
 
 **PRICE: 70 euro a month for 6 classes a week**
 
