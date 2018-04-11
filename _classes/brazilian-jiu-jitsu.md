@@ -17,9 +17,9 @@ Brazilian Jiu Jitsu is a martial art, combat sport and a self-defense system cre
 
 Jiu Jitsu emphasises taking an opponent to the ground and utilising ground fighting techniques and submission holds involving joint-locks and choke holds. The premise is that most of the advantage of a larger, stronger opponent comes from superior reach and more powerful strikes, both of which are somewhat negated when grappling on the ground.
 
-&nbsp;
+<br>&nbsp;&nbsp;
 
-&nbsp;&nbsp;
+![](/uploads/27544970-2000724673483444-1078413563016385143-n-2.jpg)
 
 ### ![](/uploads/29570552-2025017931054118-4201961986308601357-n.jpg)
 
@@ -53,7 +53,7 @@ Try a free week on us to see if you like it, what have you got to loss !? :)
 
 **![](/uploads/30222210-2029774960578415-373778406631800832-n.jpg)**
 
-### ![](/uploads/versions/20170727-1731520---x----1136-639x---.jpg)
+### &nbsp;
 
 ### &nbsp;
 
