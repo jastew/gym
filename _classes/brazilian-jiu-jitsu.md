@@ -5,11 +5,9 @@ description: >-
   beginners BJJ programme.
 image: /uploads/27544970-2000724673483444-1078413563016385143-n-1.jpg
 index: 1
+video: https://www.youtube.com/embed/8OOklM7z7CU
+banner_image: /uploads/bjj-bg.jpg
 ---
-
-![](blob:https://app.cloudcannon.com/02d0b893-a20b-4c1e-b270-f3b57480427c)
-
-### &nbsp;
 
 ### **What is Brazilian Jiu Jitsu?**
 
