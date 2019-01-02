@@ -5,7 +5,6 @@ image: /uploads/conditioning-2.jpg
 index: 3
 ---
 
-
 ## &nbsp;
 
 ## &nbsp;
@@ -14,7 +13,7 @@ index: 3
 
 &nbsp;
 
-## ![](/uploads/versions/18033528-612665985588636-4604982070635810068-n---x----677-960x---.jpg)
+## &nbsp;
 
 ## &nbsp;
 
@@ -22,7 +21,7 @@ index: 3
 
 # ***ARE OUR STRENGTH AND CONDITIONING CLASSES FOR YOU?***
 
-&nbsp;
+![](/uploads/44063004-879178745604024-4343710158287798272-n.jpg)
 
 &nbsp;
 
@@ -46,7 +45,7 @@ If you want to lose weight, gain lean muscle in a friendly environment then our 
 
 We welcome you to stop by, check us out, and hopefully work with us to achieve your goals.
 
-## &nbsp;
+## ![](/uploads/44159791-880346455487253-5696000604506161152-n.jpg)
 
 ![](/uploads/versions/15578771-558231791032056-7425311277300561419-n---x----540-960x---.jpg)
 
