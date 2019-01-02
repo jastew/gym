@@ -6,7 +6,7 @@ description: >-
 image: /uploads/45196117-2170418243180752-5770263986373132288-n.jpg
 index: 1
 video: 'https://www.youtube.com/embed/8OOklM7z7CU'
-banner_image: /uploads/bjj-bg.jpg
+banner_image: /uploads/35026398-2060498510839393-3047154188409634816-n.jpg
 ---
 
 ### **What is Brazilian Jiu Jitsu?**
