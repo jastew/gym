@@ -1,8 +1,7 @@
 ---
 title: Fit Mams Class
-description: >-
-  Invest in your Health and Training  with one of our Personal Training
-  Packages.
-image: /uploads/1on1-2.jpg
+description: Babies and toddlers welcome
+image: /uploads/48412229-917954031726495-91881582528299008-n.jpg
 index: 1
 ---
+
