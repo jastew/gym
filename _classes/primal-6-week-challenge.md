@@ -1,8 +1,7 @@
 ---
 title: Primal 6 week Challenge
-description: >-
-  Invest in your Health and Training  with one of our Personal Training
-  Packages.
-image: /uploads/1on1-2.jpg
+description: Kickstart your fitness journey with our 6 week group challenge
+image: /uploads/49206547-920529208135644-1216906037597044736-n.jpg
 index: 1
 ---
+
