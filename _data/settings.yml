@@ -5,6 +5,8 @@ menu_items:
       link: /about
     - label: Classes
       link: /classes
+    - label: Schedule
+      link: /schedule
     - label: Stories
       link: /stories
 contact:

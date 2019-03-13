@@ -3,30 +3,35 @@ layout: page
 title: Services
 ---
 
-<div class="section">
-  <div class="container">
+<!--<div class="section">-->
+  <!--<div class="container">-->
 
-    <div class="row">
-      {% assign classes = site.classes | sort: "index" %}
-      {% for class in classes %}
-        <div class="col-sm-6 col-md-3">
+    <!--<div class="row">&lt;!&ndash;-->
+      <!--{% assign classes = site.classes | sort: "index" %}-->
+      <!--{% for class in classes %}-->
+     <!--&ndash;&gt;<div class="col-sm-6 col-md-3 col-inline-block">-->
 
-          <div class="article">
-            <div class="article__head">
-              <a href="{{ site.baseurl }}{{ class.url }}" class="article__media">
-                <img src="{{ site.baseurl }}{{ class.image }}" alt="">
-              </a>
-              <h3 class="article__title"><a href="{{ site.baseurl }}{{ class.url }}">{{ class.title }}</a></h3>
-            </div>
-            <div class="article__body">
-              <div class="article__text">{{ class.description }}</div>
-              <a href="{{ site.baseurl }}{{ class.url }}" class="btn article__cta">Learn More</a>
-            </div>
-          </div>
+          <!--<div class="article">-->
+            <!--<div class="article__head">-->
+              <!--<a href="{{ site.baseurl }}{{ class.url }}" class="article__media">-->
+                <!--<img src="{{ site.baseurl }}{{ class.image }}" alt="">-->
+              <!--</a>-->
+              <!--<h3 class="article__title"><a href="{{ site.baseurl }}{{ class.url }}">{{ class.title }}</a></h3>-->
+            <!--</div>-->
+            <!--<div class="article__body">-->
+              <!--<div class="article__text">{{ class.description }}</div>-->
+              <!--<a href="{{ site.baseurl }}{{ class.url }}" class="btn article__cta">Learn More</a>-->
+            <!--</div>-->
+          <!--</div>-->
 
-        </div>
-      {% endfor %}
-    </div>
+        <!--</div>&lt;!&ndash;-->
+      <!--{% endfor %}-->
+  <!--&ndash;&gt;</div>-->
 
-  </div>
-</div>
+  <!--</div>-->
+<!--</div>-->
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.6.1/iframeResizer.min.js"></script>
+<iframe class="glofox_5c767f71d7d3111b263878c4" src="https://app.glofox.com/portal/#/branch/5c767f71d7d3111b263878c4/memberships?header=memberships" width="100%" height="0" scrolling="no" frameborder="0"></iframe>
+<script>iFrameResize({ log: false, checkOrigin: false, tolerance: 10, sizeHeight: true, heightCalculationMethod: 'lowestElement', minHeight: 300, scrolling: 'auto' }, '.glofox_5c767f71d7d3111b263878c4') </script>

@@ -22,6 +22,7 @@ body {
 .col-inline-block {
     float: none !important;
     display: inline-block;
+    vertical-align: top;
     
     @media screen and (max-width: 767px) {
         display: block;
