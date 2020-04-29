@@ -3,10 +3,6 @@ menu_items:
       link: /
     - label: About Us
       link: /about
-    - label: Classes
-      link: /classes
-    - label: Schedule
-      link: /schedule
     - label: Stories
       link: /stories
 contact:
